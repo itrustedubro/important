@@ -1,0 +1,330 @@
+{
+    "resultCode": "OK",
+    "message": "",
+    "errorDescription": "200-10000",
+    "resultObj": {
+        "showPlayerStats": false,
+        "is_preview_enabled": false,
+        "videoURL": "https://sonydrmvod.akamaized.net/CMAF/bf0e8d96a18a4873977023af3ae3dae3/1698318232/dolby-atmos-v1/Tabbar_1_1_hin_std-900500200.mpd?hdnea=exp=1745088782~acl=/CMAF/bf0e8d96a18a4873977023af3ae3dae3/1698318232/dolby-atmos-v1/Tabbar_1_1_hin_std-900500200.mpd*~id=38b2b256aee94c82a903c1879fe95fd4-1679995936618-2102120412172702820~hmac=9366cccef0047c7cb9204a90d9d6bde1cd46718f879f2cd0b8e50044e6e4dd92",
+        "multiLanguageVideoURL": [],
+        "audioLanguages": [
+            {
+                "audioId": 1,
+                "audioLanguageName": "HIN",
+                "isPreferred": false
+            },
+            {
+                "audioId": 2,
+                "audioLanguageName": "TAM",
+                "isPreferred": false
+            },
+            {
+                "audioId": 3,
+                "audioLanguageName": "MAR",
+                "isPreferred": false
+            },
+            {
+                "audioId": 4,
+                "audioLanguageName": "MAL",
+                "isPreferred": false
+            },
+            {
+                "audioId": 5,
+                "audioLanguageName": "BEN",
+                "isPreferred": false
+            },
+            {
+                "audioId": 6,
+                "audioLanguageName": "KAN",
+                "isPreferred": false
+            },
+            {
+                "audioId": 7,
+                "audioLanguageName": "TEL",
+                "isPreferred": false
+            }
+        ],
+        "trailer_url": "",
+        "subtitle": [
+            {
+                "subtitleId": "tabbar_ep1",
+                "subtitleType": "SUBTITLE",
+                "subtitleDisplayName": "English",
+                "subtitleLanguageName": "ENG",
+                "subtitleUrl": "https://origin-staticv2.sonyliv.com/subtitles/53718/tabbar_ep1.vtt"
+            }
+        ],
+        "isEncrypted": true,
+        "drm_video_kid": "ec63ae143dc0473c92ebc5142fae0000",
+        "isDVR": false,
+        "isDownloadable": true,
+        "isFromTLB": true,
+        "isDefault": false,
+        "posterURL": "",
+        "sprite_image_url": "https://sprite.sonyliv.com/Img/5/Tabbar_1_1_192_108_173.jpg",
+        "tv_sprite_image_url": "https://sprite.sonyliv.com/Img/5/Tabbar_1_1_640_360_173.jpg",
+        "dai_asset_key": "",
+        "contextual_cue_point": {},
+        "cuepoints": [
+            {
+                "advertisingContentId": "1",
+                "networkID": "1",
+                "cuePointList": [
+                    {
+                        "customSlotId": "logo",
+                        "timePositionClass": "PREROLL",
+                        "contentEndTimePosition": 18,
+                        "adFormat": "EMBEDDED",
+                        "contentTimePosition": 1
+                    },
+                    {
+                        "customSlotId": "start_credit",
+                        "timePositionClass": "PREROLL",
+                        "contentEndTimePosition": 293,
+                        "adFormat": "EMBEDDED",
+                        "contentTimePosition": 286
+                    },
+                    {
+                        "customSlotId": "end_credit",
+                        "timePositionClass": "PREROLL",
+                        "contentEndTimePosition": 2762,
+                        "adFormat": "EMBEDDED",
+                        "contentTimePosition": 2523
+                    }
+                ]
+            }
+        ],
+        "isLive": false,
+        "country_rating": "{\"A\":\"IN\",\"18+\":\"BD,NP,BT,LK,MV,AF,MU,AE,SA,KW,QA,OM,BH,MY,ID,TH,HK,PH,SG,GB,FJ,AU,US,ZA,JP,CN,NZ,CA,FR,DE,NL,NO,ES,CH,NG,KE\"}",
+        "dai_asset_key_hlsfp": "",
+        "dai_asset_key_wm": "",
+        "Maximum_Video_Quality": "DOLBY_VISION",
+        "Maximum_Audio_Quality": "DOLBY_ATMOS",
+        "Maximum_Resolution": "UHD",
+        "isWatermarked": "false",
+        "watermark_partner": "",
+        "upfrontAudio": false,
+        "pcVodLabel": "A",
+        "promotionUrl": "",
+        "hasPromotion": false,
+        "contentProvider": "Sony LIV",
+        "LA_ID": "PgbC6oyXDJn7Bfb3zVWZX8SKc",
+        "sony_match_id": "",
+        "tl_marker": "",
+        "checksum": "1QpCF61RHQI=",
+        "kid_mss": "FK5j7MA9PEeS68UUL64AAA==",
+        "parentId": "1700000804",
+        "selectedLanguage": "",
+        "isFirstVideoPlayedInDevice": false,
+        "targetedDelivery": {
+            "td_server_hints": {
+                "pip_bw_initial": 800000,
+                "pip_bw_max": 12000000,
+                "pip_vod_prefetch": 30,
+                "pip_vod_initial_buffer_mb": 11,
+                "pip_vod_initial_buffer_sec": 16,
+                "pip_vod_max_buffer_mb": 79,
+                "pip_vod_max_buffer_sec": 50,
+                "pip_live_initial_buffer": 8,
+                "pip_live_target_latency": 10,
+                "analytics_expt_id": "gZwRMPqvWq"
+            }
+        },
+        "parents": [
+            {
+                "parentId": 1500002824,
+                "parentType": "BUNDLE",
+                "parentSubType": "SEASON"
+            },
+            {
+                "parentId": 1700000804,
+                "parentType": "GROUP_OF_BUNDLES",
+                "parentSubType": "SHOW"
+            }
+        ],
+        "additionalDataJson": {
+            "audio_quality": "DOLBY_ATMOS",
+            "bitrate_ladder": {
+                "1080v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 3449599,
+                    "fps": 25,
+                    "resolution": "1920x1080",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 1025458475
+                    },
+                    "video_codec": "dvhe.05.04"
+                },
+                "1080v2": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 4487027,
+                    "fps": 25,
+                    "resolution": "1920x1080",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 1327366188
+                    },
+                    "video_codec": "dvhe.05.04"
+                },
+                "1440v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 6099149,
+                    "fps": 25,
+                    "resolution": "2560x1440",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 1867604420
+                    },
+                    "video_codec": "dvhe.05.05"
+                },
+                "2160v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 8925474,
+                    "fps": 25,
+                    "resolution": "3840x2160",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 2741305267
+                    },
+                    "video_codec": "dvhe.05.07"
+                },
+                "2160v2": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 10636878,
+                    "fps": 25,
+                    "resolution": "3840x2160",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 3341892969
+                    },
+                    "video_codec": "dvhe.05.07"
+                },
+                "360v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 293770,
+                    "fps": 25,
+                    "resolution": "640x360",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 78958802
+                    },
+                    "video_codec": "dvhe.05.01"
+                },
+                "540v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 676836,
+                    "fps": 25,
+                    "resolution": "960x540",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 167132345
+                    },
+                    "video_codec": "dvhe.05.01"
+                },
+                "540v2": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 1186641,
+                    "fps": 25,
+                    "resolution": "960x540",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 297162147
+                    },
+                    "video_codec": "dvhe.05.01"
+                },
+                "720v1": {
+                    "audio_codec": "ec-3",
+                    "bitrate": 2593719,
+                    "fps": 25,
+                    "resolution": "1280x720",
+                    "size_on_disk": {
+                        "audio": {
+                            "ben": 90252855,
+                            "hin": 156549687,
+                            "kan": 90252855,
+                            "mal": 90252855,
+                            "mar": 90252855,
+                            "tam": 90252855,
+                            "tel": 90252855
+                        },
+                        "video": 708548418
+                    },
+                    "video_codec": "dvhe.05.02"
+                }
+            },
+            "enc_format": "DASH",
+            "resolution": "UHD",
+            "video_quality": "DOLBY_VISION"
+        },
+        "LA_Details": {},
+        "is_audio_desc_available": false,
+        "is_multi_track_per_language_available": true,
+        "packId": "LIV_Pre_12M"
+    },
+    "systemTime": 1745045582707
+}

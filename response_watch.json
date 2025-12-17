@@ -1,0 +1,1036 @@
+{
+    "success": {
+        "page": {
+            "id": "watch",
+            "template": "WatchPage",
+            "spaces": {
+                "adaptive_tab_container": {
+                    "id": "adaptive_tab_container",
+                    "template": "AdaptiveTabContainerSpace",
+                    "widget_wrappers": [
+                        {
+                            "template": "AdaptiveTabContainerWidget",
+                            "widget": {
+                                "@type": "type.googleapis.com/widget.AdaptiveTabContainerWidget",
+                                "widget_commons": {
+                                    "id": "WatchTabs",
+                                    "version": "1",
+                                    "name": "WatchTabs",
+                                    "actions": {
+                                        "on_load": [
+                                            {
+                                                "subscribe_to_message_action": {
+                                                    "message_names": [
+                                                        "SELECT_TAB"
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                "data": {
+                                    "landscape_tabs": [
+                                        {
+                                            "widget_commons": {
+                                                "id": "movie",
+                                                "version": "1",
+                                                "instrumentation": {
+                                                    "override_referrer": true,
+                                                    "instrumentation_context_v2": {
+                                                        "url": "type.googleapis.com/server.context.widget.SportsContext",
+                                                        "value": "CjQSCVRhYldpZGdldBokV2F0Y2hUYWJzL0FkYXB0aXZlVGFiQ29udGFpbmVyV2lkZ2V0IgExGiASBm1vdmllcxoGbW92aWVzIAQqDHdhdGNoX3dpZGdldA=="
+                                                    }
+                                                },
+                                                "name": "movie"
+                                            },
+                                            "data": {
+                                                "title": "Movies",
+                                                "is_selected": true,
+                                                "selected_title": "Movies",
+                                                "url": {
+                                                    "space_url": "/v2/pages/1021/spaces/3854?content_id=1971011082&mode=default&offset=0&page_enum=watch&size=10&tabName=movie"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "id": "18472",
+                            "defer_id": "18472",
+                            "unique_identifier": "1443"
+                        }
+                    ]
+                },
+                "adaptive_tray": {
+                    "id": "adaptive_tray",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "cams_plus": {
+                    "id": "cams_plus",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "space_data_commons": {
+                            "instrumentation": {
+                                "override_referrer": true,
+                                "instrumentation_context_v2": {
+                                    "url": "type.googleapis.com/server.context.space.AdaptiveTraySpace",
+                                    "value": "EgljYW1zX3BsdXM="
+                                }
+                            }
+                        },
+                        "data": {}
+                    }
+                },
+                "clips": {
+                    "id": "clips",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "episode": {
+                    "id": "episode",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "fallback": {
+                    "id": "fallback",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "for_you": {
+                    "id": "for_you",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "space_data_commons": {
+                            "instrumentation": {
+                                "override_referrer": true,
+                                "instrumentation_context_v2": {
+                                    "url": "type.googleapis.com/server.context.space.AdaptiveTraySpace",
+                                    "value": "Egdmb3JfeW91"
+                                }
+                            }
+                        },
+                        "data": {
+                            "landscape_trays": [
+                                {
+                                    "id": "HorizontalCardScrollableTrayWidget"
+                                }
+                            ],
+                            "portrait_trays": [
+                                {
+                                    "id": "QuizIngressBanner"
+                                },
+                                {
+                                    "id": "HorizontalCardScrollableTrayWidget"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "keymoments": {
+                    "id": "keymoments",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "live_news": {
+                    "id": "live_news",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "space_data_commons": {
+                            "instrumentation": {
+                                "override_referrer": true,
+                                "instrumentation_context_v2": {
+                                    "url": "type.googleapis.com/server.context.space.AdaptiveTraySpace",
+                                    "value": "EglsaXZlX25ld3M="
+                                }
+                            }
+                        },
+                        "data": {}
+                    }
+                },
+                "live_tv": {
+                    "id": "live_tv",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "space_data_commons": {
+                            "instrumentation": {
+                                "override_referrer": true,
+                                "instrumentation_context_v2": {
+                                    "url": "type.googleapis.com/server.context.space.AdaptiveTraySpace",
+                                    "value": "EgdsaXZlX3R2"
+                                }
+                            }
+                        },
+                        "data": {}
+                    }
+                },
+                "movie": {
+                    "id": "movie",
+                    "template": "AdaptiveTraySpace",
+                    "data": {
+                        "@type": "type.googleapis.com/spacedata.AdaptiveTraySpaceData",
+                        "data": {}
+                    }
+                },
+                "player": {
+                    "id": "player",
+                    "template": "PlayerSpace",
+                    "widget_wrappers": [
+                        {
+                            "template": "PlayerWidget",
+                            "widget": {
+                                "@type": "type.googleapis.com/widget.PlayerWidget",
+                                "widget_commons": {
+                                    "id": "PlayerWidget",
+                                    "version": "1",
+                                    "instrumentation": {
+                                        "override_referrer": true,
+                                        "instrumentation_context_v2": {
+                                            "url": "type.googleapis.com/server.context.widget.PlayerContext",
+                                            "value": "Ch8KDFBsYXllcldpZGdldBoMUGxheWVyV2lkZ2V0IgExEpsBCgoxOTcxMDExMDgyEgdCaGVkaXlhGgdCaGVkaXlhIgVNT1ZJRSoGQ29tZWR5MIr87KsHOgZWaWFjb21iDFN1cGVybmF0dXJhbGoDdGVsagNoaW5qA2JlbmoDbWFsagNtYXJqA3RhbWoDa2FucgNoaW6CAQNWT0SKAQoxMjcxMzM5OTA1yAEB6gIRSmlvIENpbmVtYSBNb3ZpZXMaRAoUUGxheWVyV2lkZ2V0SW5zdGFuY2USDFBsYXllcldpZGdldBoGcGxheWVyIAQqDWRldGVybWluaXN0aWMyA2VuZzgBIgA="
+                                        }
+                                    },
+                                    "name": "PlayerWidget"
+                                },
+                                "data": {
+                                    "player_config": {
+                                        "content_metadata": {
+                                            "content_id": "1971011082",
+                                            "cw_info": {
+                                                "content_id": "1971011082",
+                                                "duration": "8500000"
+                                            },
+                                            "audio_languages": [
+                                                {
+                                                    "iso2code": "te",
+                                                    "iso3code": "tel",
+                                                    "name": "Telugu"
+                                                },
+                                                {
+                                                    "iso2code": "hi",
+                                                    "iso3code": "hin",
+                                                    "name": "Hindi",
+                                                    "description": "Original",
+                                                    "is_selected": true
+                                                },
+                                                {
+                                                    "iso2code": "bn",
+                                                    "iso3code": "ben",
+                                                    "name": "Bengali"
+                                                },
+                                                {
+                                                    "iso2code": "ml",
+                                                    "iso3code": "mal",
+                                                    "name": "Malayalam"
+                                                },
+                                                {
+                                                    "iso2code": "mr",
+                                                    "iso3code": "mar",
+                                                    "name": "Marathi"
+                                                },
+                                                {
+                                                    "iso2code": "ta",
+                                                    "iso3code": "tam",
+                                                    "name": "Tamil"
+                                                },
+                                                {
+                                                    "iso2code": "kn",
+                                                    "iso3code": "kan",
+                                                    "name": "Kannada"
+                                                }
+                                            ],
+                                            "original_audio_language": {
+                                                "iso3code": "hin",
+                                                "name": "\u0939\u093f\u0902\u0926\u0940"
+                                            },
+                                            "user_language_preference_id": "1971011082",
+                                            "subtitle_languages": [
+                                                {
+                                                    "iso2code": "en",
+                                                    "iso3code": "eng",
+                                                    "name": "English"
+                                                }
+                                            ],
+                                            "audio_source": "AUDIO_SOURCE_BACKEND",
+                                            "stream_type": "STREAM_VOD",
+                                            "title_cutout": {
+                                                "src": "sources/r1/cms/prod/6976/1739444806976-t",
+                                                "alt": "Bhediya"
+                                            },
+                                            "identifier": "main"
+                                        },
+                                        "media_asset": {
+                                            "content_urls": [
+                                                "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default4s/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_androidtv_premium_hs.mpd?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=219aa7941e6b2bd763ab10978318507201ee7ecf63128c2125ded3e9cd260d52&ttl=86400&type=free"
+                                            ],
+                                            "licence_urls": [
+                                                ""
+                                            ],
+                                            "primary": {
+                                                "content_url": "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default4s/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_androidtv_premium_hs.mpd?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=219aa7941e6b2bd763ab10978318507201ee7ecf63128c2125ded3e9cd260d52&ttl=86400&type=free",
+                                                "playback_tags": "audio_channel:dolby51;audio_codec:ec3;dynamic_range:sdr;encryption:plain;ladder:tv;language:hin;package:dash;resolution:fhd;video_codec:h264"
+                                            },
+                                            "fallback": {
+                                                "content_url": "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_samsungtv_premium_mnp_hs.m3u8?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=d222cac9e04de1a569bdf7abb4263339df4988ad3724f82683c9d75e933ef006&ttl=86400&type=free",
+                                                "playback_tags": "audio_channel:stereo;audio_codec:aac;dynamic_range:sdr;encryption:plain;ladder:tv;language:hin;package:hls;resolution:fhd;video_codec:h264"
+                                            }
+                                        },
+                                        "media_asset_v2": {
+                                            "primary": {
+                                                "content_url": "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default4s/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_androidtv_premium_hs.mpd?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=219aa7941e6b2bd763ab10978318507201ee7ecf63128c2125ded3e9cd260d52&ttl=86400&type=free",
+                                                "playback_tags": "audio_channel:dolby51;audio_codec:ec3;dynamic_range:sdr;encryption:plain;ladder:tv;language:hin;package:dash;resolution:fhd;video_codec:h264"
+                                            },
+                                            "fallback": {
+                                                "content_url": "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_samsungtv_premium_mnp_hs.m3u8?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=d222cac9e04de1a569bdf7abb4263339df4988ad3724f82683c9d75e933ef006&ttl=86400&type=free",
+                                                "playback_tags": "audio_channel:stereo;audio_codec:aac;dynamic_range:sdr;encryption:plain;ladder:tv;language:hin;package:hls;resolution:fhd;video_codec:h264"
+                                            },
+                                            "session_id": "61a3663b-8464-4b30-acba-26840f26ffe5",
+                                            "primary_stream": {
+                                                "url_params": {
+                                                    "content_url": "https://ak-mediavod.hotstar.com/hvvod/vod/3754021_2/bpkvod/jcvod/default4s/646e302f47a8a852f43ce3c4_v5/646e302f47a8a852f43ce3c4_v5/index_jc_androidtv_premium_hs.mpd?hdnea=exp=1748405867~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3dfXWm5jHipAu9JB6pqn3FofYMHEr360PxzmJf7iRS7nVo-did%3dvt4LvVmLvd2VRqNsvc7hAR0xPHdKTOfhRWNxCNgrNPlg-cc%3din-de%3d6-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=219aa7941e6b2bd763ab10978318507201ee7ecf63128c2125ded3e9cd260d52&ttl=86400&type=free",
+                                                    "playback_tags": "audio_channel:dolby51;audio_codec:ec3;dynamic_range:sdr;encryption:plain;ladder:tv;language:hin;package:dash;resolution:fhd;video_codec:h264"
+                                                }
+                                            }
+                                        },
+                                        "cast_image": {
+                                            "src": "sources/r1/cms/prod/2483/1739444802483-b",
+                                            "alt": "Bhediya"
+                                        }
+                                    },
+                                    "milestone_config": {
+                                        "button_show_time_ms": "5000",
+                                        "autoplay_timer_ms": "5000",
+                                        "milestone_element": [
+                                            {
+                                                "element_type": "INTRO",
+                                                "start_time_ms": "1000",
+                                                "end_time_ms": "102000",
+                                                "threshold_ms": "10000",
+                                                "title": "Skip Intro",
+                                                "sub_title": "Watch Intro"
+                                            },
+                                            {
+                                                "element_type": "UPNEXT",
+                                                "start_time_ms": "8003000",
+                                                "end_time_ms": "8500000",
+                                                "threshold_ms": "10000",
+                                                "title": "Watch Next"
+                                            },
+                                            {}
+                                        ],
+                                        "next_element": {
+                                            "watch_next_element": {
+                                                "start_time_ms": "8003000"
+                                            }
+                                        }
+                                    },
+                                    "player_onboarding": {
+                                        "widget_commons": {},
+                                        "data": {
+                                            "rating": {
+                                                "title": "Rated U/A 13+",
+                                                "subtitle": "Violence"
+                                            },
+                                            "brand": "DISNEY_PLUS",
+                                            "on_boarding_overlay_duration_in_seconds": 5,
+                                            "player_onboarding_languages": {
+                                                "icon": "icon-volume-high-line",
+                                                "languages": [
+                                                    {
+                                                        "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+                                                        "display_name": "Telugu",
+                                                        "iso2code": "te",
+                                                        "iso3code": "tel"
+                                                    },
+                                                    {
+                                                        "name": "\u0939\u093f\u0902\u0926\u0940",
+                                                        "display_name": "Hindi",
+                                                        "description": "Original",
+                                                        "is_selected": true,
+                                                        "iso2code": "hi",
+                                                        "iso3code": "hin"
+                                                    },
+                                                    {
+                                                        "name": "\u09ac\u09be\u0982\u09b2\u09be",
+                                                        "display_name": "Bengali",
+                                                        "iso2code": "bn",
+                                                        "iso3code": "ben"
+                                                    },
+                                                    {
+                                                        "name": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+                                                        "display_name": "Malayalam",
+                                                        "iso2code": "ml",
+                                                        "iso3code": "mal"
+                                                    },
+                                                    {
+                                                        "name": "\u092e\u0930\u093e\u0920\u0940",
+                                                        "display_name": "Marathi",
+                                                        "iso2code": "mr",
+                                                        "iso3code": "mar"
+                                                    },
+                                                    {
+                                                        "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                                                        "display_name": "Tamil",
+                                                        "iso2code": "ta",
+                                                        "iso3code": "tam"
+                                                    },
+                                                    {
+                                                        "name": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+                                                        "display_name": "Kannada",
+                                                        "iso2code": "kn",
+                                                        "iso3code": "kan"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "player_control": {
+                                        "widget_commons": {
+                                            "id": "PlayerControlWidget",
+                                            "version": "1",
+                                            "instrumentation": {
+                                                "override_referrer": true,
+                                                "impression_events": [
+                                                    {
+                                                        "event_name": "Clicked Next Content"
+                                                    }
+                                                ],
+                                                "instrumentation_context_v2": {
+                                                    "url": "type.googleapis.com/server.context.widget.PlayerContext",
+                                                    "value": "Ci0KE1BsYXllckNvbnRyb2xXaWRnZXQaE1BsYXllckNvbnRyb2xXaWRnZXQiATESmwEKCjE5NzEwMTEwODISB0JoZWRpeWEaB0JoZWRpeWEiBU1PVklFKgZDb21lZHkwivzsqwc6BlZpYWNvbWIMU3VwZXJuYXR1cmFsagN0ZWxqA2hpbmoDYmVuagNtYWxqA21hcmoDdGFtagNrYW5yA2hpboIBA1ZPRIoBCjEyNzEzMzk5MDXIAQHqAhFKaW8gQ2luZW1hIE1vdmllcxpSChNQbGF5ZXJDb250cm9sV2lkZ2V0EhNQbGF5ZXJDb250cm9sV2lkZ2V0Gg5wbGF5ZXIgY29udHJvbCAEKg1kZXRlcm1pbmlzdGljMgNlbmc4AQ=="
+                                                }
+                                            },
+                                            "name": "PlayerControlWidget"
+                                        },
+                                        "data": {
+                                            "content_name": {
+                                                "title": "Bhediya",
+                                                "alt": {
+                                                    "label": "Bhediya"
+                                                }
+                                            },
+                                            "player_seekbar_heading": {
+                                                "title": "Bhediya"
+                                            },
+                                            "player_control_menu": {
+                                                "widget_commons": {
+                                                    "id": "PlayerControlMenuWidget",
+                                                    "version": "1",
+                                                    "instrumentation": {
+                                                        "instrumentation_context_v2": {
+                                                            "url": "type.googleapis.com/component.content.Widget",
+                                                            "value": "ChdQbGF5ZXJDb250cm9sTWVudVdpZGdldBIXUGxheWVyQ29udHJvbE1lbnVXaWRnZXQ="
+                                                        }
+                                                    },
+                                                    "name": "PlayerControlMenuWidget"
+                                                },
+                                                "data": {
+                                                    "items": [
+                                                        {
+                                                            "open_settings_item": {
+                                                                "title": "Quality",
+                                                                "icon": "icon-video-fill",
+                                                                "types": [
+                                                                    "VIDEO_QUALITY"
+                                                                ],
+                                                                "alt": {
+                                                                    "label": "Change Video Quality"
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "open_settings_item": {
+                                                                "title": "Audio & Subtitles",
+                                                                "icon": "icon-subtitle-line",
+                                                                "types": [
+                                                                    "AUDIO_LANGUAGE",
+                                                                    "SUBTITLE"
+                                                                ],
+                                                                "alt": {
+                                                                    "label": "Change Audio or Subtitles"
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "fan_mode_action_item": {
+                                                                "title": "Scorecard",
+                                                                "icon": "icon-scorecard-line"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "landscape_items": [
+                                                        {
+                                                            "open_settings_item": {
+                                                                "title": "Quality",
+                                                                "icon": "icon-video-fill",
+                                                                "types": [
+                                                                    "VIDEO_QUALITY"
+                                                                ],
+                                                                "alt": {
+                                                                    "label": "Change Video Quality"
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "open_settings_item": {
+                                                                "title": "Audio & Subtitles",
+                                                                "icon": "icon-subtitle-line",
+                                                                "types": [
+                                                                    "AUDIO_LANGUAGE",
+                                                                    "SUBTITLE"
+                                                                ],
+                                                                "alt": {
+                                                                    "label": "Change Audio or Subtitles"
+                                                                }
+                                                            }
+                                                        },
+                                                        {
+                                                            "fan_mode_action_item": {
+                                                                "title": "Scorecard",
+                                                                "icon": "icon-scorecard-line"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "portrait_items": [
+                                                        {
+                                                            "open_settings_item": {
+                                                                "title": "Settings",
+                                                                "icon": "icon-settings",
+                                                                "types": [
+                                                                    "VIDEO_QUALITY"
+                                                                ],
+                                                                "alt": {
+                                                                    "label": "Player Settings"
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "cast_button": {
+                                                "actions": {
+                                                    "on_click": [
+                                                        {
+                                                            "hs_track": {
+                                                                "name": "Clicked Cast Button"
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "sub_widgets": {
+                                        "preroll": {},
+                                        "midroll": {}
+                                    },
+                                    "play_finish_actions": [
+                                        {
+                                            "page_back": {}
+                                        }
+                                    ],
+                                    "video_meta": {
+                                        "url": "https://ak-mediavod.hotstar.com/seekpreview/02/3754021/1733844594/json/metadata.json"
+                                    },
+                                    "live_stream_ad": {},
+                                    "intervention_data": {}
+                                }
+                            },
+                            "id": "5845",
+                            "defer_id": "5845",
+                            "unique_identifier": "252"
+                        },
+                        {
+                            "template": "ConcurrencyWidget",
+                            "widget": {
+                                "@type": "type.googleapis.com/widget.ConcurrencyWidget",
+                                "widget_commons": {
+                                    "version": "1",
+                                    "name": "ConcurrencyWidget"
+                                },
+                                "data": {
+                                    "live_data": {
+                                        "live_display_text": "LIVE",
+                                        "concurrency_pattern": "{concurrency} Now",
+                                        "views_pattern": "{views} Views",
+                                        "status_badge": {
+                                            "image": {
+                                                "src": "https://ma.hsr.im/sports-service/image/upload/f_auto/watch/badge/LRBadge",
+                                                "alt": "Status Badge"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "id": "5847",
+                            "defer_id": "5847",
+                            "unique_identifier": "1239"
+                        }
+                    ]
+                },
+                "seo": {
+                    "id": "seo",
+                    "template": "SEOSpace",
+                    "widget_wrappers": [
+                        {
+                            "template": "SEOWidget",
+                            "widget": {
+                                "@type": "type.googleapis.com/widget.SEOWidget",
+                                "data": {
+                                    "meta_tags": {
+                                        "title": "Watch Bhediya - JioHotstar",
+                                        "description": "Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter. Watch Bhediya Full Movie on JioHotstar now.",
+                                        "keywords": "Bhediya, Bhediya movie, Bhediya full movie online, watch Bhediya online",
+                                        "area_served": "in",
+                                        "website_url": "hotstar.com/in",
+                                        "brand": "JioHotstar"
+                                    },
+                                    "url_tags": {
+                                        "canonical_url": "https://www.hotstar.com/in/movies/bhediya/1971011082/watch",
+                                        "alternate_urls": [
+                                            {
+                                                "url": "https://www.hotstar.com/in/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-IN"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/ca/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-CA"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/gb/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-GB"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/id/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-ID"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/th/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-TH"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/my/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-MY"
+                                            },
+                                            {
+                                                "url": "https://www.hotstar.com/sg/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-SG"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/za/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-ZA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/il/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-IL"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/il/movies/bhediya/1971011082/watch?x-lang=heb",
+                                                "lang_code": "he-IL"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ae/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-AE"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ae/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-AE"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/sa/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-SA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/sa/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-SA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/eg/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-EG"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/eg/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-EG"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/qa/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-QA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/qa/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-QA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/kw/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-KW"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/kw/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-KW"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/om/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-OM"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/om/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-OM"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/bh/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-BH"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/bh/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-BH"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/dz/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-DZ"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/dz/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-DZ"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/jo/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-JO"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/jo/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-JO"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ma/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-MA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ma/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-MA"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/tn/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-TN"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/tn/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-TN"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ps/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-PS"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ps/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-PS"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ye/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-YE"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ye/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-YE"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/lb/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-LB"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/lb/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-LB"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/iq/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-IQ"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/iq/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-IQ"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ly/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-LY"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ly/movies/bhediya/1971011082/watch?x-lang=ara",
+                                                "lang_code": "ar-LY"
+                                            },
+                                            {
+                                                "url": "https://www.apps.disneyplus.com/ph/movies/bhediya/1971011082/watch",
+                                                "lang_code": "en-PH"
+                                            }
+                                        ]
+                                    },
+                                    "json_ld_data": {
+                                        "schemas": [
+                                            "{\"@context\":\"https://schema.org/\",\"@type\":\"Movie\",\"name\":\"Bhediya\",\"description\":\"Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter.\",\"url\":\"https://www.hotstar.com/in/movies/bhediya/1971011082/watch\",\"inLanguage\":\"Telugu Hindi Bengali Malayalam Marathi Tamil Kannada\",\"genre\":\"Comedy Horror Thriller\",\"typicalAgeRange\":\"U/A 13+\",\"uploadDate\":\"2023-05-25T14:50:00Z\",\"thumbnailURL\":\"https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i\",\"productionCompany\":{\"@type\":\"Organization\",\"name\":\"Jio Cinema Movies\"},\"contentType\":\"MOVIE\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Viacom\"},\"duration\":\"PT2H21M40S\",\"releaseYear\":\"2022\"}",
+                                            "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://www.hotstar.com/in/movies/bhediya/1971011082/watch\"}",
+                                            "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"websiteURL\":\"https://www.hotstar.com/in/movies/bhediya/1971011082/watch\",\"areaServed\":\"in\",\"name\":\"JioHotstar\"}"
+                                        ]
+                                    },
+                                    "facebook_tags": {
+                                        "ogTitle": "Watch Bhediya - JioHotstar",
+                                        "ogDescription": "Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter. Watch Bhediya Full Movie on JioHotstar now.",
+                                        "ogUrl": "https://www.hotstar.com/in/movies/bhediya/1971011082/watch",
+                                        "ogSiteName": "JioHotstar",
+                                        "ogImage": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i",
+                                        "ogVideoWidth": "1920",
+                                        "ogVideoHeight": "1080",
+                                        "ogContentType": "video.movie"
+                                    },
+                                    "twitter_tags": {
+                                        "title": "Watch Bhediya - JioHotstar",
+                                        "description": "Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter. Watch Bhediya Full Movie on JioHotstar now.",
+                                        "image": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i"
+                                    },
+                                    "social_tags": [
+                                        {
+                                            "property": "og:title",
+                                            "content": "Watch Bhediya - JioHotstar"
+                                        },
+                                        {
+                                            "property": "og:description",
+                                            "content": "Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter. Watch Bhediya Full Movie on JioHotstar now."
+                                        },
+                                        {
+                                            "property": "og:url",
+                                            "content": "https://www.hotstar.com/in/movies/bhediya/1971011082/watch"
+                                        },
+                                        {
+                                            "property": "og:site_name",
+                                            "content": "JioHotstar"
+                                        },
+                                        {
+                                            "property": "og:image",
+                                            "content": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i"
+                                        },
+                                        {
+                                            "property": "og:video:width",
+                                            "content": "1920"
+                                        },
+                                        {
+                                            "property": "og:video:height",
+                                            "content": "1080"
+                                        },
+                                        {
+                                            "property": "og:type",
+                                            "content": "video.movie"
+                                        },
+                                        {
+                                            "property": "twitter:title",
+                                            "content": "Watch Bhediya - JioHotstar"
+                                        },
+                                        {
+                                            "property": "twitter:description",
+                                            "content": "Bitten by a wolf in Arunachal, Bhaskar transforms into a werewolf. With his friends, he unravels a mystery, facing twists and laughter. Watch Bhediya Full Movie on JioHotstar now."
+                                        },
+                                        {
+                                            "property": "twitter:image",
+                                            "content": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i"
+                                        }
+                                    ]
+                                }
+                            },
+                            "id": "5851",
+                            "defer_id": "5851",
+                            "unique_identifier": "327"
+                        }
+                    ]
+                },
+                "watch_overlay": {
+                    "id": "watch_overlay",
+                    "template": "WatchOverlaySpace",
+                    "widget_wrappers": [
+                        {
+                            "template": "WatchOverlayWidget",
+                            "widget": {
+                                "@type": "type.googleapis.com/widget.WatchOverlayWidget",
+                                "data": {
+                                    "settings_v2": {
+                                        "data": {
+                                            "option_list_map": {
+                                                "audio": {
+                                                    "audio_language_list": {
+                                                        "title": "AUDIO",
+                                                        "type": "AUDIO_LANGUAGE"
+                                                    }
+                                                },
+                                                "playback_speed": {
+                                                    "playback_speed_list": {}
+                                                },
+                                                "subtitle": {
+                                                    "subtitle_list": {
+                                                        "title": "SUBTITLES",
+                                                        "type": "SUBTITLE"
+                                                    }
+                                                },
+                                                "video": {
+                                                    "video_quality_list": {
+                                                        "title": "Quality",
+                                                        "type": "VIDEO_QUALITY",
+                                                        "video_quality_option": [
+                                                            {
+                                                                "title": "Auto",
+                                                                "is_selected": true
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "landscape_option_list_groups": [
+                                                {
+                                                    "title": "Quality",
+                                                    "option_list_keys": [
+                                                        "video"
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Audio & Subtitles",
+                                                    "option_list_keys": [
+                                                        "audio",
+                                                        "subtitle"
+                                                    ]
+                                                }
+                                            ],
+                                            "portrait_option_list_groups": [
+                                                {
+                                                    "title": "Quality",
+                                                    "option_list_keys": [
+                                                        "video"
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Audio Language",
+                                                    "option_list_keys": [
+                                                        "audio"
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Subtitles",
+                                                    "option_list_keys": [
+                                                        "subtitle"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "id": "5848",
+                            "defer_id": "5848",
+                            "unique_identifier": "253"
+                        }
+                    ]
+                }
+            },
+            "data": {
+                "@type": "type.googleapis.com/pagedata.WatchPageData",
+                "page_data_commons": {
+                    "instrumentation": {
+                        "override_referrer": true,
+                        "instrumentation_context_v2": {
+                            "url": "type.googleapis.com/server.context.page.WatchPageContext",
+                            "value": "CicKCVdhdGNoUGFnZRIHQmhlZGl5YRoPL3YyL3BhZ2VzL3dhdGNoIAMSmwEKCjE5NzEwMTEwODISB0JoZWRpeWEaB0JoZWRpeWEiBU1PVklFKgZDb21lZHkwivzsqwc6BlZpYWNvbWIMU3VwZXJuYXR1cmFsagN0ZWxqA2hpbmoDYmVuagNtYWxqA21hcmoDdGFtagNrYW5yA2hpboIBA1ZPRIoBCjEyNzEzMzk5MDXIAQHqAhFKaW8gQ2luZW1hIE1vdmllcw=="
+                        }
+                    },
+                    "invalidate_on": [
+                        "TOKEN_CHANGED"
+                    ],
+                    "refresh_api_url": "/v2/pages/watch?content_id=1971011082&filters=content_type%3Dmovie",
+                    "actions": {
+                        "on_load": [
+                            {}
+                        ]
+                    },
+                    "page_type": "PAGE_TYPE_WATCH"
+                },
+                "report_data": {
+                    "title": "Report an Issue",
+                    "report_options": [
+                        {
+                            "icon_name": "icon-wifi",
+                            "title": "Buffering and Connection Issues",
+                            "description": "Frequent buffering, playback won't start, or similar problems",
+                            "type": "BUFFERING_CONNECTION"
+                        },
+                        {
+                            "icon_name": "icon-video-fill",
+                            "title": "Video Quality",
+                            "description": "Video is blurry, cuts out, or looks strange in some way",
+                            "type": "VIDEO_QUALITY"
+                        },
+                        {
+                            "icon_name": "icon-volume-high-line",
+                            "title": "Audio Quality",
+                            "description": "Audio is hard to hear, mismatched with video, or missing in certain parts",
+                            "type": "AUDIO_QUALITY"
+                        },
+                        {
+                            "icon_name": "icon-subtitle-line",
+                            "title": "Subtitles and Captions",
+                            "description": "Missing, hard to read, mismatched with audio, misspelt or poor translation",
+                            "type": "SUBTITLES_CAPTIONS"
+                        }
+                    ]
+                },
+                "watch_config": {
+                    "live_logo_enabled": true,
+                    "simulcast_start_point_enabled": true,
+                    "fan_mode_enabled": true,
+                    "sports_whitelist_cards": [
+                        "KeymomentItem",
+                        "EditorialCardFeedItem",
+                        "EditorialCardFeedItemV1",
+                        "CommentaryFeedItem",
+                        "InningDividerItem",
+                        "OverSummaryItem",
+                        "BrandedMomentItem"
+                    ],
+                    "network_nudge_config": {},
+                    "maxview_v3_ad_swipeable_enabled": true
+                },
+                "page_event_actions": {
+                    "COUNTER_LOGIN_SKIPPED": {
+                        "reload_action": {
+                            "context": {
+                                "page_context": {
+                                    "reload_with_url": "/v2/pages/watch?content_id=1971011082&event=counter_skip_login&filters=content_type%3Dmovie"
+                                }
+                            }
+                        }
+                    },
+                    "LOGIN_ACTION": {
+                        "fetch_start": {
+                            "url": "/v2/start",
+                            "context": {
+                                "url": "type.googleapis.com/context.StateContext",
+                                "value": "CgQaAggB"
+                            },
+                            "render_mode": "MODAL"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
