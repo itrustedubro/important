@@ -1,0 +1,1458 @@
+{
+    "5896930301_205306": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_eng=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_eng=94000",
+            "2": "audio_94486_tam=94000",
+            "3": "audio_94490_tel=94000",
+            "4": "audio_94494_hin=94000"
+        },
+        "processing": true
+    },
+    "8150514456_61014": {
+        "selected_resolution": {
+            "stream_id": "video=3187600",
+            "resolution": "1920x1080",
+            "bitrate": 3187
+        },
+        "selected_audios": [
+            "audio_94482_eng=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_eng=94000"
+        },
+        "processing": true
+    },
+    "7463050225_47282": {
+        "selected_resolution": {
+            "stream_id": "13271",
+            "resolution": "3840x2160",
+            "bitrate": 13271
+        },
+        "selected_audios": [
+            "audio_0-Alternate_Audio"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_0-Alternate_Audio"
+        },
+        "processing": true
+    },
+    "7463050225_47287": {
+        "selected_resolution": {
+            "stream_id": "3371",
+            "resolution": "1920x1080",
+            "bitrate": 3371
+        },
+        "selected_audios": [
+            "audio_0-Alternate_Audio"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_0-Alternate_Audio"
+        },
+        "processing": true
+    },
+    "5252749466_61027": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "7342623120_61029": {
+        "selected_resolution": {
+            "stream_id": "6",
+            "resolution": "640x360",
+            "bitrate": 600
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "7342623120_61037": {
+        "selected_resolution": {
+            "stream_id": "480p_8fab8678e20d356af7396e6bb3d1100f",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7342623120_61067": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749120285594/avc1/4_YlGttLD",
+            "resolution": "854x480",
+            "bitrate": 516
+        },
+        "selected_audios": [
+            "audio_aac_1749120285594/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749120285594/kn/mp4a/3",
+            "2": "audio_aac_1749120285594/kn/mp4a/2",
+            "3": "audio_aac_1749120285594/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "5252749466_61105": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "7342623120_61110": {
+        "selected_resolution": {
+            "stream_id": "480p_f724adc41fe8520001afe5a8c93a98f5",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7342623120_61121": {
+        "selected_resolution": {
+            "stream_id": "480p_0e1545cb170412713e2e4d8be02e0088",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7342623120_61134": {
+        "selected_resolution": {
+            "stream_id": "480p_b7483713d42712d3b948cb79617c06c5",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7342623120_61158": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749120239085/avc1/4_cThrsSH",
+            "resolution": "854x480",
+            "bitrate": 557
+        },
+        "selected_audios": [
+            "audio_aac_1749120239085/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749120239085/kn/mp4a/3",
+            "2": "audio_aac_1749120239085/kn/mp4a/2",
+            "3": "audio_aac_1749120239085/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "7342623120_61165": {
+        "selected_resolution": {
+            "stream_id": "480p_43f2c0c27d33062ac97a158a9b219b40",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7463050225_47323": {
+        "selected_resolution": {
+            "stream_id": "3222",
+            "resolution": "1920x1080",
+            "bitrate": 3222
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "aac_2d0-stream_4"
+        }
+    },
+    "7463050225_47325": {
+        "selected_resolution": {
+            "stream_id": "1689",
+            "resolution": "1280x720",
+            "bitrate": 1689
+        },
+        "selected_audios": [
+            "aac_2d0-stream_4"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "aac_2d0-stream_4"
+        },
+        "processing": true
+    },
+    "7463050225_47327": {
+        "selected_resolution": {
+            "stream_id": "892",
+            "resolution": "853x480",
+            "bitrate": 892
+        },
+        "selected_audios": [
+            "aac_2d0-stream_4"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "aac_2d0-stream_4"
+        },
+        "processing": true
+    },
+    "5252749466_61173": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "6"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "6"
+        },
+        "processing": true
+    },
+    "7342623120_61175": {
+        "selected_resolution": {
+            "stream_id": "480p_7d55813d59e2f3d1f2083cdc1579e07c",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7463050225_47329": {
+        "selected_resolution": {
+            "stream_id": "3222",
+            "resolution": "1920x1080",
+            "bitrate": 3222
+        },
+        "selected_audios": [
+            "aac_2d0-stream_4"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "aac_2d0-stream_4"
+        },
+        "processing": true
+    },
+    "7342623120_61187": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749124273062/avc1/4_emUhTJB",
+            "resolution": "854x480",
+            "bitrate": 583
+        },
+        "selected_audios": [
+            "audio_aac_1749124273062/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749124273062/kn/mp4a/3",
+            "2": "audio_aac_1749124273062/kn/mp4a/2",
+            "3": "audio_aac_1749124273062/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "7342623120_61202": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749123042742/avc1/4_eVavpcl",
+            "resolution": "854x480",
+            "bitrate": 676
+        },
+        "selected_audios": [
+            "audio_aac_1749123042742/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749123042742/kn/mp4a/3",
+            "2": "audio_aac_1749123042742/kn/mp4a/2",
+            "3": "audio_aac_1749123042742/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "1663473084_61214": {
+        "selected_resolution": {
+            "stream_id": "576p_4f53c4b3db9512853b91fee080fd01e4",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "7342623120_61220": {
+        "selected_resolution": {
+            "stream_id": "480p_2ed5259cb66986eaa09dc805a08ce790",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7966440421_61219": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_eng=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_eng=94000"
+        },
+        "processing": true
+    },
+    "1663473084_61216": {
+        "selected_resolution": {
+            "stream_id": "576p_ee480f39a5327703dd793ddb07f0f6c5",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "7342623120_61234": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749128187484/avc1/4_riAWDNu",
+            "resolution": "854x480",
+            "bitrate": 429
+        },
+        "selected_audios": [
+            "audio_aac_1749128187484/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749128187484/kn/mp4a/3",
+            "2": "audio_aac_1749128187484/kn/mp4a/2",
+            "3": "audio_aac_1749128187484/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "924534545_61242": {
+        "selected_resolution": {
+            "stream_id": "video=9000000-1",
+            "resolution": "1920x872",
+            "bitrate": 9000
+        },
+        "selected_audios": [
+            "audio_ta-IN_2=224000-0",
+            "audio_ta-IN_2=128000-0",
+            "audio_ta-IN_2=96000-0"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_ta-IN_2=224000-0",
+            "2": "audio_ta-IN_2=128000-0",
+            "3": "audio_ta-IN_2=96000-0",
+            "4": "audio_ta-IN_1=64000-0",
+            "5": "audio_ta-IN=32000-0",
+            "6": "audio_ta-IN=20000-0"
+        },
+        "processing": true
+    },
+    "7342623120_61249": {
+        "selected_resolution": {
+            "stream_id": "video_fhd_h264_sdr_1749127504497/avc1/4_qpUneXR",
+            "resolution": "854x480",
+            "bitrate": 700
+        },
+        "selected_audios": [
+            "audio_aac_1749127504497/kn/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1749127504497/kn/mp4a/3",
+            "2": "audio_aac_1749127504497/kn/mp4a/2",
+            "3": "audio_aac_1749127504497/kn/mp4a/1"
+        },
+        "processing": true
+    },
+    "7342623120_61263": {
+        "selected_resolution": {
+            "stream_id": "480p_1ddbd0410ab9033d387d5d0e569fc6bb",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "6796307271_61253": {
+        "selected_resolution": {
+            "stream_id": "video/avc1/7-1080v2",
+            "resolution": "1920x1080",
+            "bitrate": 4170
+        },
+        "selected_audios": [
+            "audio/hin/mp4a"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio/hin/mp4a"
+        },
+        "processing": true
+    },
+    "7342623120_61275": {
+        "selected_resolution": {
+            "stream_id": "video_h265_fhd_sdr_1748866915166/hvc1/4_hzeHMNh",
+            "resolution": "854x480",
+            "bitrate": 530
+        },
+        "selected_audios": [
+            "audio_aac_1748861849778/en/mp4a/3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_aac_1748861849778/en/mp4a/3",
+            "2": "audio_aac_1748861849778/en/mp4a/2",
+            "3": "audio_aac_1748861849778/en/mp4a/1"
+        },
+        "processing": true
+    },
+    "5252749466_61294": {
+        "selected_resolution": {
+            "stream_id": "11",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "7342623120_61306": {
+        "selected_resolution": {
+            "stream_id": "video_4k_h265_sdr_1743594045885/hvc1/1_ozRrvxS",
+            "resolution": "854x480",
+            "bitrate": 447
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_ec3_1743546085075/hi/ec-3",
+            "2": "audio_aac_1743539218429/hi/mp4a/3",
+            "3": "audio_aac_1743575472991/te/mp4a/3",
+            "4": "audio_aac_1743575472124/mr/mp4a/3",
+            "5": "audio_aac_1743575540552/ml/mp4a/3",
+            "6": "audio_aac_1743575489566/ta/mp4a/3",
+            "7": "audio_aac_1743575587411/bn/mp4a/3",
+            "8": "audio_aac_1743575493959/kn/mp4a/3",
+            "9": "audio_aac_1743539218429/hi/mp4a/2",
+            "10": "audio_aac_1743575472991/te/mp4a/2",
+            "11": "audio_aac_1743575472124/mr/mp4a/2",
+            "12": "audio_aac_1743575540552/ml/mp4a/2",
+            "13": "audio_aac_1743575489566/ta/mp4a/2",
+            "14": "audio_aac_1743575587411/bn/mp4a/2",
+            "15": "audio_aac_1743575493959/kn/mp4a/2",
+            "16": "audio_aac_1743539218429/hi/mp4a/1",
+            "17": "audio_aac_1743575472991/te/mp4a/1",
+            "18": "audio_aac_1743575472124/mr/mp4a/1",
+            "19": "audio_aac_1743575540552/ml/mp4a/1",
+            "20": "audio_aac_1743575489566/ta/mp4a/1",
+            "21": "audio_aac_1743575587411/bn/mp4a/1",
+            "22": "audio_aac_1743575493959/kn/mp4a/1",
+            "23": "audio_aac_1743575569492/bh/mp4a/3",
+            "24": "audio_aac_1743575569492/bh/mp4a/2"
+        }
+    },
+    "5252749466_61314": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "753851950_5913": {
+        "selected_resolution": {
+            "stream_id": "video_h264_fhd_sdr_1633441215060-avc1-8",
+            "resolution": "1920x1080",
+            "bitrate": 3680
+        },
+        "selected_audios": [
+            "audio_ec3_1633509669940-te-ec-3"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_ec3_1633509669940-te-ec-3",
+            "2": "audio_ec3_1633509733860-ta-ec-3",
+            "3": "audio_ec3_1633509772765-mr-ec-3",
+            "4": "audio_ec3_1633509867647-bn-ec-3",
+            "5": "audio_ec3_1633509868498-hi-ec-3",
+            "6": "audio_ec3_1633509706390-ml-ec-3",
+            "7": "audio_ec3_1633509842062-kn-ec-3",
+            "8": "audio_aac_1633452431940-te-mp4a-3",
+            "9": "audio_aac_1633452704166-ta-mp4a-3",
+            "10": "audio_aac_1633452707359-mr-mp4a-3",
+            "11": "audio_aac_1633453124071-bn-mp4a-3",
+            "12": "audio_aac_1633441215060-hi-mp4a-3",
+            "13": "audio_aac_1633452528136-ml-mp4a-3",
+            "14": "audio_aac_1633452832599-kn-mp4a-3",
+            "15": "audio_aac_1633452431940-te-mp4a-2",
+            "16": "audio_aac_1633452704166-ta-mp4a-2",
+            "17": "audio_aac_1633452707359-mr-mp4a-2",
+            "18": "audio_aac_1633453124071-bn-mp4a-2",
+            "19": "audio_aac_1633441215060-hi-mp4a-2",
+            "20": "audio_aac_1633452528136-ml-mp4a-2",
+            "21": "audio_aac_1633452832599-kn-mp4a-2",
+            "22": "audio_aac_1633452431940-te-mp4a-1",
+            "23": "audio_aac_1633452704166-ta-mp4a-1",
+            "24": "audio_aac_1633452707359-mr-mp4a-1",
+            "25": "audio_aac_1633453124071-bn-mp4a-1",
+            "26": "audio_aac_1633441215060-hi-mp4a-1",
+            "27": "audio_aac_1633452528136-ml-mp4a-1",
+            "28": "audio_aac_1633452832599-kn-mp4a-1"
+        },
+        "processing": true
+    },
+    "5896930301_205331": {
+        "selected_resolution": {
+            "stream_id": "4098",
+            "resolution": "1920x1080",
+            "bitrate": 4098
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {},
+        "processing": true
+    },
+    "5252749466_61325": {
+        "selected_resolution": {
+            "stream_id": "10",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "5252749466_61375": {
+        "selected_resolution": {
+            "stream_id": "10",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "5896930301_205358": {
+        "selected_resolution": {
+            "stream_id": "4098",
+            "resolution": "1920x1080",
+            "bitrate": 4098
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {},
+        "processing": true
+    },
+    "6796307271_61385": {
+        "selected_resolution": {
+            "stream_id": "4650",
+            "resolution": "1920x1080",
+            "bitrate": 4650
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {},
+        "processing": true
+    },
+    "1291393407_78946": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "5252749466_61399": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "6796307271_61421": {
+        "selected_resolution": {
+            "stream_id": "8",
+            "resolution": "1920x1080",
+            "bitrate": 7472
+        },
+        "selected_audios": [
+            "14"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "14",
+            "2": "13",
+            "3": "12",
+            "4": "11",
+            "5": "10",
+            "6": "9"
+        },
+        "processing": true
+    },
+    "1291393407_78952": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "5252749466_61426": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "7"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "7"
+        },
+        "processing": true
+    },
+    "6796307271_61444": {
+        "selected_resolution": {
+            "stream_id": "8",
+            "resolution": "1920x1080",
+            "bitrate": 7472
+        },
+        "selected_audios": [
+            "14"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "14",
+            "2": "13",
+            "3": "12",
+            "4": "11",
+            "5": "10",
+            "6": "9"
+        },
+        "processing": true
+    },
+    "8150514456_61460": {
+        "selected_resolution": {
+            "stream_id": "video=229600",
+            "resolution": "320x180",
+            "bitrate": 229
+        },
+        "selected_audios": [
+            "audio_108400_hin=106400"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_108400_hin=106400"
+        },
+        "processing": true
+    },
+    "1196229967_959": {
+        "selected_resolution": {
+            "stream_id": "video=9000000-1",
+            "resolution": "1920x1040",
+            "bitrate": 9000
+        },
+        "selected_audios": [
+            "audio_ta-IN_2=224000-0"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_hi-IN_2=224000-0",
+            "2": "audio_ta-IN_2=224000-0",
+            "3": "audio_te-IN_2=224000-0",
+            "4": "audio_hi-IN_2=128000-0",
+            "5": "audio_ta-IN_2=128000-0",
+            "6": "audio_te-IN_2=128000-0",
+            "7": "audio_hi-IN_2=96000-0",
+            "8": "audio_ta-IN_2=96000-0",
+            "9": "audio_te-IN_2=96000-0",
+            "10": "audio_hi-IN_1=64000-0",
+            "11": "audio_ta-IN_1=64000-0",
+            "12": "audio_te-IN_1=64000-0",
+            "13": "audio_hi-IN=32000-0",
+            "14": "audio_ta-IN=32000-0",
+            "15": "audio_te-IN=32000-0",
+            "16": "audio_hi-IN=20000-0",
+            "17": "audio_ta-IN=20000-0",
+            "18": "audio_te-IN=20000-0",
+            "19": "audio_ja-JP_2=224000-0",
+            "20": "audio_ja-JP_2=128000-0"
+        },
+        "processing": true
+    },
+    "5252749466_61486": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "1196229967_970": {
+        "selected_resolution": {
+            "stream_id": "video=15000000-1",
+            "resolution": "1920x1040",
+            "bitrate": 15000
+        },
+        "selected_audios": [
+            "audio_ta-IN_2=224000-0"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_hi-IN_2=224000-0",
+            "2": "audio_ta-IN_2=224000-0",
+            "3": "audio_te-IN_2=224000-0",
+            "4": "audio_hi-IN_2=128000-0",
+            "5": "audio_ta-IN_2=128000-0",
+            "6": "audio_te-IN_2=128000-0",
+            "7": "audio_hi-IN_2=96000-0",
+            "8": "audio_ta-IN_2=96000-0",
+            "9": "audio_te-IN_2=96000-0",
+            "10": "audio_hi-IN_1=64000-0",
+            "11": "audio_ta-IN_1=64000-0",
+            "12": "audio_te-IN_1=64000-0",
+            "13": "audio_hi-IN=32000-0",
+            "14": "audio_ta-IN=32000-0",
+            "15": "audio_te-IN=32000-0",
+            "16": "audio_hi-IN=20000-0",
+            "17": "audio_ta-IN=20000-0",
+            "18": "audio_te-IN=20000-0",
+            "19": "audio_ja-JP_2=224000-0",
+            "20": "audio_ja-JP_2=128000-0"
+        },
+        "processing": true
+    },
+    "7342623120_61498": {
+        "selected_resolution": {
+            "stream_id": "480p_1b6bae07dbeee46096e1ee6072f77b3a",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "1196229967_993": {
+        "selected_resolution": {
+            "stream_id": "video=4000000-1",
+            "resolution": "1920x1040",
+            "bitrate": 4000
+        },
+        "selected_audios": [
+            "audio_ta-IN_2=224000-0"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_hi-IN_2=224000-0",
+            "2": "audio_ta-IN_2=224000-0",
+            "3": "audio_te-IN_2=224000-0",
+            "4": "audio_hi-IN_2=128000-0",
+            "5": "audio_ta-IN_2=128000-0",
+            "6": "audio_te-IN_2=128000-0",
+            "7": "audio_hi-IN_2=96000-0",
+            "8": "audio_ta-IN_2=96000-0",
+            "9": "audio_te-IN_2=96000-0",
+            "10": "audio_hi-IN_1=64000-0",
+            "11": "audio_ta-IN_1=64000-0",
+            "12": "audio_te-IN_1=64000-0",
+            "13": "audio_hi-IN=32000-0",
+            "14": "audio_ta-IN=32000-0",
+            "15": "audio_te-IN=32000-0",
+            "16": "audio_hi-IN=20000-0",
+            "17": "audio_ta-IN=20000-0",
+            "18": "audio_te-IN=20000-0",
+            "19": "audio_ja-JP_2=224000-0",
+            "20": "audio_ja-JP_2=128000-0"
+        },
+        "processing": true
+    },
+    "7342623120_61504": {
+        "selected_resolution": {
+            "stream_id": "480p_08f953f6a74af6c35666d7702e8ef22d",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7342623120_61510": {
+        "selected_resolution": {
+            "stream_id": "480p_b9c1d699d10adcf981c18a5f9ce2137b",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "1291393407_78981": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "5252749466_61515": {
+        "selected_resolution": {
+            "stream_id": "11",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "7342623120_61523": {
+        "selected_resolution": {
+            "stream_id": "480p_de287c5be607a12b22395c50dc39f47f",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "6796307271_61526": {
+        "selected_resolution": {
+            "stream_id": "5",
+            "resolution": "1280x720",
+            "bitrate": 1200
+        },
+        "selected_audios": [
+            "14"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "14",
+            "2": "13",
+            "3": "12",
+            "4": "11",
+            "5": "10",
+            "6": "9"
+        },
+        "processing": true
+    },
+    "7342623120_61534": {
+        "selected_resolution": {
+            "stream_id": "480p_4bcb1793cbdbfee7519fca913f683774",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "7463050225_47349": {
+        "selected_resolution": {
+            "stream_id": "1",
+            "resolution": "640x480",
+            "bitrate": 2132
+        },
+        "selected_audios": [
+            "10"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "10"
+        },
+        "processing": true
+    },
+    "1291393407_78987": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "5252749466_61555": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "6796307271_61560": {
+        "selected_resolution": {
+            "stream_id": "7",
+            "resolution": "1920x1080",
+            "bitrate": 3842
+        },
+        "selected_audios": [
+            "14"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "14",
+            "2": "13",
+            "3": "12",
+            "4": "11",
+            "5": "10",
+            "6": "9"
+        },
+        "processing": true
+    },
+    "1663473084_61563": {
+        "selected_resolution": {
+            "stream_id": "576p_841681326d053e724c8f3475a5ea380f",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "1663473084_61565": {
+        "selected_resolution": {
+            "stream_id": "576p_efddc6c550131098db7bbb436dad86e3",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "1663473084_61573": {
+        "selected_resolution": {
+            "stream_id": "576p_387f2daa659915b343bd772179a66089",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "7342623120_61587": {
+        "selected_resolution": {
+            "stream_id": "480p_503bb8f1be54a6a6d48825e1f5f9baab",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "1663473084_61591": {
+        "selected_resolution": {
+            "stream_id": "10",
+            "resolution": "1280x720",
+            "bitrate": 1200
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "1291393407_78993": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "5252749466_61602": {
+        "selected_resolution": {
+            "stream_id": "11",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "7"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "7"
+        },
+        "processing": true
+    },
+    "7342623120_61609": {
+        "selected_resolution": {
+            "stream_id": "6",
+            "resolution": "640x360",
+            "bitrate": 600
+        },
+        "selected_audios": [
+            "5"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        },
+        "processing": true
+    },
+    "1663473084_61612": {
+        "selected_resolution": {
+            "stream_id": "576p_944579b7994c80fd6dec115d144aff7f",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "1663473084_61614": {
+        "selected_resolution": {
+            "stream_id": "1080lowp_ff46ccd0b0ec3093d796967bca6f06ce",
+            "resolution": "1920x1080",
+            "bitrate": 3800
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "6796307271_61621": {
+        "selected_resolution": {
+            "stream_id": "2",
+            "resolution": "1920x1080",
+            "bitrate": 5000
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "6796307271_61629": {
+        "selected_resolution": {
+            "stream_id": "2",
+            "resolution": "1920x1080",
+            "bitrate": 5000
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "8150514456_61641": {
+        "selected_resolution": {
+            "stream_id": "video=3187600",
+            "resolution": "1920x1080",
+            "bitrate": 3187
+        },
+        "selected_audios": [
+            "audio_94482_und=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_und=94000"
+        },
+        "processing": true
+    },
+    "1291393407_78999": {
+        "selected_resolution": {
+            "stream_id": "video=1297600",
+            "resolution": "854x480",
+            "bitrate": 1297
+        },
+        "selected_audios": [
+            "audio_94482_hin=94000",
+            "audio_94483_tam=94000",
+            "audio_94484_mal=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_hin=94000",
+            "2": "audio_94483_tam=94000",
+            "3": "audio_94484_mal=94000"
+        },
+        "processing": true
+    },
+    "8150514456_61649": {
+        "selected_resolution": {
+            "stream_id": "video=3187600",
+            "resolution": "1920x1080",
+            "bitrate": 3187
+        },
+        "selected_audios": [
+            "audio_94482_eng=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_eng=94000"
+        },
+        "processing": true
+    },
+    "8150514456_61655": {
+        "selected_resolution": {
+            "stream_id": "video=3187600",
+            "resolution": "1920x1080",
+            "bitrate": 3187
+        },
+        "selected_audios": [
+            "audio_94482_eng=94000"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio_94482_eng=94000"
+        },
+        "processing": true
+    },
+    "1746800498_205530": {
+        "selected_resolution": {
+            "stream_id": "2",
+            "resolution": "1920x1080",
+            "bitrate": 5000
+        },
+        "selected_audios": [
+            "8"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "8"
+        },
+        "processing": true
+    },
+    "7342623120_61691": {
+        "selected_resolution": {
+            "stream_id": "480p_bcd36864a9915756e77d8dccda3f8f40",
+            "resolution": "854x480",
+            "bitrate": 1100
+        },
+        "selected_audios": [
+            "Kannada"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Kannada"
+        },
+        "processing": true
+    },
+    "5252749466_61716": {
+        "selected_resolution": {
+            "stream_id": "11",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [
+            "7"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "7"
+        },
+        "processing": true
+    },
+    "1663473084_61723": {
+        "selected_resolution": {
+            "stream_id": "576p_5896e0b4734b21684507fdc23f8ee7a9",
+            "resolution": "1024x576",
+            "bitrate": 1350
+        },
+        "selected_audios": [
+            "Marathi"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "Marathi"
+        },
+        "processing": true
+    },
+    "5252749466_61731": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        }
+    },
+    "5252749466_61733": {
+        "selected_resolution": {
+            "stream_id": "12",
+            "resolution": "1920x1080",
+            "bitrate": 2300
+        },
+        "selected_audios": [],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "5"
+        }
+    },
+    "15922743_61735": {
+        "selected_resolution": {
+            "stream_id": "video/avc1/7-1080v2",
+            "resolution": "1920x1080",
+            "bitrate": 4359
+        },
+        "selected_audios": [
+            "audio/hin/mp4a"
+        ],
+        "timestamp": 1749146802.3559701,
+        "stream_id_map": {
+            "1": "audio/hin/mp4a"
+        },
+        "processing": true
+    }
+}

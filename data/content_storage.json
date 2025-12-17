@@ -1,0 +1,548 @@
+{
+    "1746800498_205503": {
+        "content_url": "https://www.primevideo.com/detail/0RGXAYOZ7PSY3QWUYFUFDCNLJX/",
+        "platform": "Amazon Prime",
+        "title": "Illti",
+        "content_type": "MOVIE",
+        "episode_title": null,
+        "episode_number": null,
+        "content_id": "amzn1.dv.gti.d000f2e3-0c90-414e-a9d1-618351d31cdd",
+        "thumbnail": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e6b47806ba970806ca455fdab81dd1339d3afd655fbbdb67b58e6d8c2b4a39f6.jpg",
+        "streams": {
+            "dash": null,
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": null,
+            "keys": null
+        },
+        "subtitles": [],
+        "force_drive_upload": true,
+        "timestamp": 1749144341.11388
+    },
+    "1746800498_205506": {
+        "content_url": "https://www.primevideo.com/detail/0RGXAYOZ7PSY3QWUYFUFDCNLJX/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0F247YHBJ&qid=1749144298047",
+        "platform": "Amazon Prime",
+        "title": "Illti",
+        "content_type": "MOVIE",
+        "episode_title": null,
+        "episode_number": null,
+        "content_id": "amzn1.dv.gti.d000f2e3-0c90-414e-a9d1-618351d31cdd",
+        "thumbnail": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e6b47806ba970806ca455fdab81dd1339d3afd655fbbdb67b58e6d8c2b4a39f6.jpg",
+        "streams": {
+            "dash": null,
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": null,
+            "keys": null
+        },
+        "subtitles": [],
+        "force_drive_upload": true,
+        "timestamp": 1749144368.3114588
+    },
+    "1746800498_205530": {
+        "content_url": "https://chaupal.tv/movie/movie-01pb-main-illti-video/f28d1a07-e35d-48e7-973f-08cea1b83953",
+        "platform": "ChaupalTV",
+        "title": "Illti",
+        "content_type": "MOVIE",
+        "episode_title": null,
+        "episode_number": null,
+        "year": "",
+        "content_id": "e2b6bd21-e230-4fdd-941c-8c9a790d0e4c",
+        "thumbnail": "https://images.chaupal.tv/31b7e9c7ae380d8168bb6d047242e55f/31b7e9c7ae380d8168bb6d047242e55f",
+        "streams": {
+            "dash": "https://assets.chaupal.tv/1135c12e-2d87-44d0-a419-5c781e3b7f0d/main-1_2/dash/content.mpd?hdnts=exp=1749144618~id=f9d6e6d7-b14c-4b0c-bc75-381fa0cac243~hmac=54daa34b1df5422ed8828bb89113d2f9e4ab5d8d011b300dea3614de44d6bee2",
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://drm.chaupal.tv/isengard/wvm/283f804e-92ca-41ac-bc57-fa6042c29d6c",
+            "keys": "46c3597b9c0047829025cb5ba6070216:3a0064a07c2184866d7be8f140f9c774"
+        },
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "3840x2160",
+                    "bitrate": 14000,
+                    "stream_id": "1"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 5000,
+                    "stream_id": "2"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 2800,
+                    "stream_id": "3"
+                },
+                {
+                    "resolution": "960x540",
+                    "bitrate": 1800,
+                    "stream_id": "4"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 1000,
+                    "stream_id": "5"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 600,
+                    "stream_id": "6"
+                },
+                {
+                    "resolution": "320x180",
+                    "bitrate": 300,
+                    "stream_id": "7"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "PAN",
+                    "bitrate": 128,
+                    "stream_id": "8",
+                    "codec": "|"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": true,
+        "timestamp": 1749144589.447934
+    },
+    "7342623120_61691": {
+        "content_url": "https://www.zee5.com/tvshows/details/soubhagyavati-bhava/0-6-4z5363757/mithra's-behaviour-hurts-vinu/0-1-6z5762602",
+        "platform": "ZEE5",
+        "title": "Soubhagyavati Bhava",
+        "episode_title": "Mithra's Behaviour Hurts Vinu",
+        "episode_number": "S01E526",
+        "content_type": "EPISODE",
+        "content_id": "0-1-6z5762602",
+        "thumbnail": "https://akamaividz.zee5.com/resources/0-1-6z5762602/list/1170x658/000000001749d94464d6701484f8b45906df73cb3e3.jpg",
+        "streams": {
+            "hls": "https://vodprime-ak.akamaized.net/drm1/titanfile/hls/TV_SHOWS/ZEE_KANNADA/June2025/05062025/Episode/Soubhagyavati_Bhava_Ep526_Episode_05062025_kn_21aa3cd21778b8c6ed17f33d0fb5701e/index.m3u8?hdnea=st=1749144471~exp=1749145371~acl=/drm1/titanfile/hls/TV_SHOWS/ZEE_KANNADA/June2025/05062025/Episode/Soubhagyavati_Bhava_Ep526_Episode_05062025_kn_21aa3cd21778b8c6ed17f33d0fb5701e/index.m3u8*~data=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749144771427~hmac=03d5bedb4be3f743ebabce24e7da6e88c8fb4d1b09626fc4f2708b4739e0dfd9&session_id=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749144771427&c3.ri=6902474597238360271&btv=true&req_id=0f7e79f2-eb78-4c95-aaef-b1b293c4c448",
+            "dash": "https://mediacloudfront.zee5.com/drm1/titanfile/dash/TV_SHOWS/ZEE_KANNADA/June2025/05062025/Episode/Soubhagyavati_Bhava_Ep526_Episode_05062025_kn_21aa3cd21778b8c6ed17f33d0fb5701e/manifest.mpd?hdnea=st=1749144471~exp=1749145371~acl=/drm1/titanfile/dash/TV_SHOWS/ZEE_KANNADA/June2025/05062025/Episode/Soubhagyavati_Bhava_Ep526_Episode_05062025_kn_21aa3cd21778b8c6ed17f33d0fb5701e/manifest.mpd*~data=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749144771427~hmac=c74fee38854e5cc1b21f4e4a5fc1e3676809746488b9779aa546a6a6c86e25a4&session_id=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749144771427&c3.ri=6902474597238360271&req_id=0f7e79f2-eb78-4c95-aaef-b1b293c4c448"
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://spapi.zee5.com/widevine/getLicense",
+            "keys": "0dbae4a10bc23a649d5b9dcb32da3bb6:c099c84a64882b120ef7d11ad7c31b42"
+        },
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 3800,
+                    "stream_id": "1080lowp_ff3d3c853c2a2585fe27895c7058101b"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 2000,
+                    "stream_id": "720highp_58531617d69805493575524eaa01f1dd"
+                },
+                {
+                    "resolution": "1024x576",
+                    "bitrate": 1350,
+                    "stream_id": "576p_fc2a15e3c0aee22ba101d92a4658447a"
+                },
+                {
+                    "resolution": "854x480",
+                    "bitrate": 1100,
+                    "stream_id": "480p_bcd36864a9915756e77d8dccda3f8f40"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 600,
+                    "stream_id": "360p_938f5ef675306b976a86685336142cc8"
+                },
+                {
+                    "resolution": "428x240",
+                    "bitrate": 360,
+                    "stream_id": "240p_889a683488d37f6e41ae56176f0ac091"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "Kannada",
+                    "bitrate": 137,
+                    "stream_id": "Kannada",
+                    "codec": "|"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749144780.4489129
+    },
+    "5252749466_61716": {
+        "content_url": "https://www.hotstar.com/in/shows/bigg-boss-kannada/1971002073/shankars-actions-shock-the-house/1971013717/watch",
+        "platform": "JioHotstar",
+        "title": "Bigg Boss Kannada",
+        "content_type": "EPISODE",
+        "episode_title": "Shankar's Actions Shock The House",
+        "episode_number": "S08E32",
+        "content_id": "1971013717",
+        "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5676/1734087195676-h",
+        "streams": {
+            "dash": "https://jc-ak-dashstreaming.hotstar.com/content/entry/wvdata/37/94/2b6486e0926611eb98e3bf9b6c11afc4_voot_androidtv_premium_1635276981014.mpd?hdnea=exp=1749145409~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3d4jU6AQswG5Du554uoMxFiZu0fjsz1tFOGxRe0tIS1yRz-did%3d30MSUTZm26ByMNuWz371FaTj79KOXAse2S1PGlQNb98d-cc%3din-de%3d5-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=12e23a3099922cdcf73593b4548a19827440876f6b7f8bb8791ffd90d25b992e&ttl=86400&type=free",
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://apix.hotstar.com/v2/fetch/license?token=aMdxZWhxFR_FScYywAjhCmg-w1WaGkHyV0Im_tpVP9qCG7SGGdOknSRzSVKhI1RMzbA38_HSGlLOerio454gSd5_VJRAwCkRFpMC11OtMb1zFjsBIothqeUH4Eieve1DvICCprFx54Kht8ab1P0azoBTq_izBXWYtez7YzdvL20LIVfRp22RGDd1R7B2ml-VtVeBy_oOa9nA6UI_I_hXisLiZID2OLUOBEri5tca-F4W7MWV7Pp8L0ZHVDNvlfFBi6d-VoSQvtMvc3Q9_KHfbrbIC94adLJ2uTFV-gEiw9VhLuCZjjjUdbVS-OVXhCWcN9S27x65SsqNxuG86Ia6zZKUAWVyVRgiiPXJXMDKJuUUAa7mxucADjVNdQ75t5WGPCCRMGBXUH5PwBoI2yLKKUWK1VrKD7f7ik34H1x_WVST3tcat3YEWjDFXm9AmVRKl2btaYQJqCBbaDM6Wzq3kAeuX_ybujFpEgb8bm5wH27CQ9WZ6iztsRaRitVJsDLxTN34nPO3hN5RJ9gYgSQvZfnMtFiD6qQ1h6oUuhwk1Ekv_e0v67SqfyoDIEuq3WbzNVg1GQeTK3phqqBhQJQXDCDjlsfUG_Cg0pySds5RogMqwAR7cJtDgHSnyfFJxuK8EwzrRCxuujhsrK1OCQLw8XfHD5lB6vO03WDQQK_f6ncwwkjUD-u4iKlzua5PYLEVmxm6FdXoLHGlHYLZ1xDasUW7uFjXf0AX1b6af7C2ld4k6-SDXbeZ5_kmwMCgEORUPbXNXlUk3gZEQwl8SmdLuC7CCWyvIdV9G-at3qzVKpL0l-H5_BZAfSSHJI_Vox4roLfj2c0Naj_bBa8etyXlhlS0m6xx8Ez00C75QWgPY0uGD4GYL8hVPK4Vm5iQxv3nwCSky-OOIC5JaX0cpdoKnQW67kau36pxlWp_uYK6pvoHibwN-_ZFBuaske_lPrpKDsN7V2YTjLlzU29OM8Ngcbt3fuYM_e3AUXHXgPzfcIiI5QBTSXlBZDTgoVpFUyP1cldRYogNSbqz26XEo5mJfTK0dnjXQ7b0HtGuPlWrTzgjtgAorGW5TYG14TfH8d_CT4s3XAj4eRHhXYgid3MAU8IUr0f81Ih_isMqi0sEeG0Yw0sgnyXwx8Kf0CH7kfOK5dIdeaAbNMr7xnlSdmizmOgmO0eMQtJW5DK1-JZWqNjsoPVJwrhrWwn-wuliLpkAqsoAj28s51aMqupsEmpk1UB_G4hMOuY6HnaBMwKB8zKtSyqmFrVyQnz3Lsi5jKmblXpc8RsBsF3MZgmXZDTTEsTa3elpL6AyCHtjkYr6D6wRKj0rdzL2la0MaJHhr4oeQFa_nBmC-0ir3eYrbDZ8aB8R6zxQkKgGtFuqOtsIZt2706A1s8nPAS2dkSWohyvDLHHTG-R_4gd5D8ieGe8R6r7j2CyYOjhGEFBJzich_b9AlxbGIWVAKqCtA_ZAPhSpW5bz6qpoo1Y8NMfNaw4R595IXY2_YC82SRzS6yrH1147y6TGZ9-BLofgKG8A18BSgPA5MP3vRMvbM72k9TsOG8JhdLeMdosdysAABUuG9eXA",
+            "keys": "9e51e4966577530eb07328ba8b089e31:b4cd9fd92e5746b88db80d9e51024018,b4c7d07ce88a545cae4ce2d8af91f14c:5393d7375f1fcf98f6ad3a22c2d405d8,4552b33a7af45707af796e3e62fc243b:9703e92ee8513330eebfd9a6be32d6da"
+        },
+        "selected_language": null,
+        "language_code": null,
+        "subtitles": [],
+        "formats_from_parser": true,
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 4000,
+                    "stream_id": "14"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 2300,
+                    "stream_id": "11"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 1200,
+                    "stream_id": "10"
+                },
+                {
+                    "resolution": "848x480",
+                    "bitrate": 800,
+                    "stream_id": "4"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 600,
+                    "stream_id": "5"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 400,
+                    "stream_id": "3"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 200,
+                    "stream_id": "2"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "UNKNOWN",
+                    "bitrate": 64,
+                    "stream_id": "7"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749144914.5353212
+    },
+    "1663473084_61723": {
+        "content_url": "https://www.zee5.com/tv-shows/details/tula-japnar-aahe/0-6-4z5677769/shivnath-frees-ambika-from-captivity/0-1-6z5763082",
+        "platform": "ZEE5",
+        "title": "Tula Japnar Aahe",
+        "episode_title": "Shivnath Frees Ambika from Captivity",
+        "episode_number": "S01E98",
+        "content_type": "EPISODE",
+        "content_id": "0-1-6z5763082",
+        "thumbnail": "https://akamaividz.zee5.com/resources/0-1-6z5763082/list/1170x658/000000001282e8b5f208b37422aaa49d86ae4c18a31.jpg",
+        "streams": {
+            "hls": "https://vodprime-ak.akamaized.net/drm1/titanfile/hls/TV_SHOWS/ZEE_MARATHI/June2025/05062025/Episode/CS_Tula_Japnar_Aahe_Ep98_Episode_05062025_mr_0b9d738c0bddc72e2e49ffce6706928c/index.m3u8?hdnea=st=1749145008~exp=1749145908~acl=/drm1/titanfile/hls/TV_SHOWS/ZEE_MARATHI/June2025/05062025/Episode/CS_Tula_Japnar_Aahe_Ep98_Episode_05062025_mr_0b9d738c0bddc72e2e49ffce6706928c/index.m3u8*~data=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749145308229~hmac=8aaf23772807f1645d3fd96d179ecedecb078588545261a17fc8be23dbf109b6&session_id=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749145308229&c3.ri=6924429679539770840&btv=true&req_id=fd993051-67a0-4802-939b-0e7220bce8db",
+            "dash": "https://mediacloudfront.zee5.com/drm1/titanfile/dash/TV_SHOWS/ZEE_MARATHI/June2025/05062025/Episode/CS_Tula_Japnar_Aahe_Ep98_Episode_05062025_mr_0b9d738c0bddc72e2e49ffce6706928c/manifest.mpd?hdnea=st=1749145008~exp=1749145908~acl=/drm1/titanfile/dash/TV_SHOWS/ZEE_MARATHI/June2025/05062025/Episode/CS_Tula_Japnar_Aahe_Ep98_Episode_05062025_mr_0b9d738c0bddc72e2e49ffce6706928c/manifest.mpd*~data=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749145308229~hmac=d0db0de7c7041ed049673f5a70c0db7b85a66cc5ff5bc2f46d8222a00b6a8dfb&session_id=3e8a7ee4-5fcf-4b67-a93a-a3df52f66bcb-1749145308229&c3.ri=6924429679539770840&req_id=fd993051-67a0-4802-939b-0e7220bce8db"
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://spapi.zee5.com/widevine/getLicense",
+            "keys": "4ea0659842683405a3df99b6673f2a4c:804364b1a298038d830f437848bbcbc9"
+        },
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 3800,
+                    "stream_id": "1080lowp_9cb27905df5b53535502143bd9d6c8aa"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 2000,
+                    "stream_id": "720highp_d3b881103768fd9958a4ece6a85cbdd5"
+                },
+                {
+                    "resolution": "1024x576",
+                    "bitrate": 1350,
+                    "stream_id": "576p_5896e0b4734b21684507fdc23f8ee7a9"
+                },
+                {
+                    "resolution": "854x480",
+                    "bitrate": 1100,
+                    "stream_id": "480p_8d4db77478b8891be458aaadaec80088"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 600,
+                    "stream_id": "360p_dc7d95ab06cc36345dbfe6f1e545474d"
+                },
+                {
+                    "resolution": "428x240",
+                    "bitrate": 360,
+                    "stream_id": "240p_aedb9d30ef3159998e1f8f2796cf4ace"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "Marathi",
+                    "bitrate": 137,
+                    "stream_id": "Marathi",
+                    "codec": "|"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749145317.780722
+    },
+    "5252749466_61731": {
+        "content_url": "https://www.hotstar.com/in/shows/bigg-boss-kannada/1971002073/chakravarthy-rates-the-housemates/1971012242/watch",
+        "platform": "JioHotstar",
+        "title": "Bigg Boss Kannada",
+        "content_type": "EPISODE",
+        "episode_title": "Chakravarthy Rates The Housemates",
+        "episode_number": "S08E33",
+        "content_id": "1971012242",
+        "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8375/1734085588375-h",
+        "streams": {
+            "dash": "https://jc-ak-dashstreaming.hotstar.com/content/entry/wvdata/16/55/f9494120932611ebab4b6381aca7275b_voot_androidtv_premium_1635277936168.mpd?hdnea=exp=1749146172~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3d4jU6AQswG5Du554uoMxFiZu0fjsz1tFOGxRe0tIS1yRz-did%3d30MSUTZm26ByMNuWz371FaTj79KOXAse2S1PGlQNb98d-cc%3din-de%3d5-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=11a8ffbb0a90471456d4e36a21b14e77b27181365e72c69637eac0843497bb50&ttl=86400&type=free",
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://apix.hotstar.com/v2/fetch/license?token=cuuaEh0qNZ_SWidOUWSymAkVVCTFCwnfqlSsk_9eF8ubgKkL8_Gg7jUxbCXhoRkr-9tp00tarqXMpjl8T7vBkofBgE-W_StyIKTtalf-GprS2JjrrtIU2Y41xZKe0NgL6bBzuEZwCFbXXblZcN1uyfsgfZiHdQdVZzYPOnhuCSz3UXl2Qwj8dV-ZMTJSZBkB_e0ca3Z-VZUdl_aDlN26ojF6vONezHwCP171D9tpbR-tMa1NlydztbdiKdIjCd0VhfW_Zwtaaeer0uL94Ya1fOA-4wARcFZ7A_U30r5vyjhiYp_N9vrk87PX5Z2fVOZATu8mkm8KAYR7Kd9O2XbhpO-XIfhvzRVX4NDfdmve1vyIVUQiwi1gqKcmfDvH8Fl-HzJ9NBnaHNaD3DXNDSSPHQCcBtYCOQJL_G8UwnMB_s-OQOjCF8ZieP8uzTb77pmH2peqvmGvBZMNTROpiyEXn7BKm0vMVzDerINQhkTDRroXPuVwzOwih61IQqul-pQCVOSKs9KfFX7GvFKU2H-09P8jZUcFPBUaS7W8lzxMQbnkEqwUmPBSZwW2O5mkz6pbsshoa4KuBikO1pRThqjcGP4Y6JdGpvWIiACy3_w8uRKpY99gI1zUPon6eCAcKDUzaFaT7uphQfxRI75X2Hv2Qg6yVfe_WUAX7_shyqi0jfxAJGXpCXV-KryuVHQvhJH-6Wv6sDShFFns_Zhz-nsUfc-eJp1HFe5WgIn08glAxm1Xe-aaC6Xx9Dq6us3FM9AJJ-yyRtL8VKNH1vsBMZKOnv5F8vANuxEaNTAcVNUyvP-EbHrR_9nK6trm5lgvZhjtBpDmk5GL9wPXyIuXu_025RRD4kHJBefEZHkn9Q0aaSCZ5F5k9WZeLtvTnQyIAO9i4QKqpVLrS0xmrFpAsgEUxzD7l4lpf2C-CxCPGzEZQVvwdBXZ0CDNY4j8ZWrkTCyLtPFfNGho-x6VkYEvWhdNCWXXThMOY9g38JwXosog8i9W6V_BHha539ko73bzXhEnWUsCmjVHisVaGNMgQJyC0BEcdJxEdsPgMpD8lxxtikKnEkFxduAVTEbrSquFu7OJyTBgaG29feAcuAYUstC9-eRwqHxOFyUXPD25dlXArjXdituzCnnV0vglhWvZhzLdBmt3G_TcDLgO68RXMmj1lgQa9_cjrB9rMx5hGoEtdZjLHnPpzQxC0lz517Woe7CL-9ornONCDbsU82-hcUaETqNK-j8SD2cj9IwCl7JuQn6xGxKpb1143GR3bmHN3HXlbDWIBAsofgbTGErMm8gEWDYlf4fwtezRbzc-PrYDbrvyB6fCKZjBZw8ohHk73kdZ1TUGpack1w4kE5LeaKAMBv9o6F9mVqnusA4H3KHJFHAYsPW6rg4ttaUc4YOC_i76suC6uHHzpMhHLJoFRxUu6eLoex5bgQQhLVdlL-wclXHit56l4T4_UMXxPw-B2-C2klWb2dlVPVxEavxjkvpex958E_mnd-o8nqXXqcfZYxFOKHbjU_8Hem8WSo8mRTQvmSZkHedqTvSYEM_utqkr6K0sq1jUEXGADiflPyD6wqG8",
+            "keys": "cc2790aae9f85c5faf61826c21e17567:1fdd5633f6826da108cdb76bd829ffe9,a22914729d365727b259eb35b9e0690f:0e37b78b7f4b49b1d5bc6f69e8bd8d95,44355517f6085a3b967a7cd99eb7ff23:f3acb8863ee36af4f7c72b25daf22254"
+        },
+        "selected_language": null,
+        "language_code": null,
+        "subtitles": [],
+        "formats_from_parser": true,
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 4000,
+                    "stream_id": "14"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 2300,
+                    "stream_id": "12"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 1200,
+                    "stream_id": "10"
+                },
+                {
+                    "resolution": "848x480",
+                    "bitrate": 800,
+                    "stream_id": "8"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 600,
+                    "stream_id": "6"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 400,
+                    "stream_id": "4"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 200,
+                    "stream_id": "2"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "UNKNOWN",
+                    "bitrate": 64,
+                    "stream_id": "5"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749145677.7224817
+    },
+    "5252749466_61733": {
+        "content_url": "https://www.hotstar.com/in/shows/bigg-boss-kannada/1971002073/chakravarthy-rates-the-housemates/1971012242/watch",
+        "platform": "JioHotstar",
+        "title": "Bigg Boss Kannada",
+        "content_type": "EPISODE",
+        "episode_title": "Chakravarthy Rates The Housemates",
+        "episode_number": "S08E33",
+        "content_id": "1971012242",
+        "thumbnail": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8375/1734085588375-h",
+        "streams": {
+            "dash": "https://jc-ak-dashstreaming.hotstar.com/content/entry/wvdata/16/55/f9494120932611ebab4b6381aca7275b_voot_androidtv_premium_1635277936168.mpd?hdnea=exp=1749146200~data=ip%3dV6izsvxHBopreodrGxKbLp-userid%3d4jU6AQswG5Du554uoMxFiZu0fjsz1tFOGxRe0tIS1yRz-did%3d30MSUTZm26ByMNuWz371FaTj79KOXAse2S1PGlQNb98d-cc%3din-de%3d5-pl%3dandroidtv-ap%3d23.08.14.4-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=36ded7c878893d075a81d140ad303420abf38d333fbebee3834e77665eeb3090&ttl=86400&type=free",
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": true,
+            "license_url": "https://apix.hotstar.com/v2/fetch/license?token=rWj8uoGEbUzv91XLaFyCu4-4I7pCQ7Trso7gF5480fWW6ptWUO6nLwNERODz9wCYBEwxiJSv5mIxQ46U6b_NN53FsgJCYn2VV_EB7W96q4xDBeL0pCYQOV5ws3a2ItSELDUzMsCWnRIwHsCB8FXmjDZ_CglHxibYo8PXuwfCvWu6ciAKgHxBjVwKn6iqIjdqcNhsv6qi3zlViWXrJ0yf8YQuS0_n1bOkKrmGBMv479Ba-z8Ikp3wMRTGUCmQY79-PcCvmmnqf9rdDkgIwMnZPInizuz7WOTqjQAC8KxJRMvciWUTpTp7LHSd9OmTHHW1f56MGmwMteCi9h-AHvUMDqJ07KHDFoVmfuxgI7RvAnZeB1MeOSi3xQmi4nCXLcJYmTtVm7r82uo4M6yYk7c-RZy8oEIL2mNaolQOJlZIgRhnT0iPU-QCeWXp78bgOVDGJx8_FyU7LTXC6MyMdmJBD3HyQZ1q0ihAzg5KnFUMga4HE8MKquK9NwuSnJXF5lA64BdH-jhZQjef__HB5yYPJAgIPlYgFt6VRHHGzjuMB_THLMV17X_cUe3p4deIzFxyHZ3et-RI8h-E14X85ty3olcBtX-nqXaLU0OFEm5O8g7q30FZJFu-vxOicfgFnJPWxVQe2AnWse_3QrM4QZZHDYEfKwhN7WtSy5KuMaWfTBFJMAtvqmxaVkZDpDrxzhHkOelzhTpTXBgFy8yLvI5lOIfArPtnkW3lznr8aobU3vSOM_6MYCFstrMyYfbtV1Tgs_4pMmT1g594sf3VyFrIs2qczFaAyBUiiUpPiA9OCXhbeUCgNR6y7RDBu63WG48LzZYlRQLkoDQgExykV8YOn6C2MGupNEE0hV6aXlpDDTrhiiP171quZwLNjBmGf9gQPmoHrOWBa3jO-1nvSI6WxYCoXTsbs5kQ9i8Zu_4zLLA6sPPJR4EvVCjQPocOJ-eOi6uRsPJb0AUtwJHs5Lf61AyMTg9Yu_nfP-gkVY-m0TBok33tUMjYMacFNggGeYsTMwyxsgQVemdxXUvxVIL2vqSAj_pKYt08F6tLBwtUdxHGO8pG6HC1ruWmFj4FSQqsEWJwFwVhR2YvHv2xf7u3V_R6AG3XuaesVUUMIXzjJAm_CpD4dS-WS-pxzH_p7ZwrMVRL18x-u5cyR7shciXP_ywSoOS7twhWeNa5OpCn3BOzOdejZu3EWsFePfyQrH_3COM955kg8XgGTH0TOCsJJ7b5c56ugmloD6-XuDSSBQT9JHLy8A1NOU_7rF_keoYhOYhL5jKMgIcy_ylyZzRuKB_ltND1gWLEhOQ3hMhCd_qxmfWUyOd4-DjYTAqk_ShgAG7q_YE9sK7N471-qZyQarDTEibEoVjm9Kje0v4MHld0b9ZIygWKK5UMzlIH8E9wslOIC4i02Gi02T_5XyW5VLrIsyK-676LyoTnMGkDDLf9R4Hlx6vi_gyhuL-30CS9uy1wk-Wv2V0dgwfaSIVVq4ZWxJqRp4_GO3QkEDx9g235p6CK-9XRqB9VrnoLGXv0YNvaVc66lyYIheyNh-g92j3k8LAvUSIGf4zX7Xnbjvot",
+            "keys": "cc2790aae9f85c5faf61826c21e17567:1fdd5633f6826da108cdb76bd829ffe9,a22914729d365727b259eb35b9e0690f:0e37b78b7f4b49b1d5bc6f69e8bd8d95,44355517f6085a3b967a7cd99eb7ff23:f3acb8863ee36af4f7c72b25daf22254"
+        },
+        "selected_language": null,
+        "language_code": null,
+        "subtitles": [],
+        "formats_from_parser": true,
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 4000,
+                    "stream_id": "14"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 2300,
+                    "stream_id": "12"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 1200,
+                    "stream_id": "10"
+                },
+                {
+                    "resolution": "848x480",
+                    "bitrate": 800,
+                    "stream_id": "8"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 600,
+                    "stream_id": "6"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 400,
+                    "stream_id": "4"
+                },
+                {
+                    "resolution": "480x270",
+                    "bitrate": 200,
+                    "stream_id": "2"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "UNKNOWN",
+                    "bitrate": 64,
+                    "stream_id": "5"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749145704.633919
+    },
+    "15922743_61735": {
+        "content_url": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/immunity-pin-challenge-1090469587?watch=true",
+        "platform": "SonyLIV",
+        "title": "Celebrity Masterchef",
+        "content_type": "EPISODE",
+        "episode_title": "Immunity Pin Challenge ",
+        "episode_number": "S01E21",
+        "year": "",
+        "content_id": "1090469587",
+        "season": 1,
+        "episode": 21,
+        "season_id": null,
+        "bundle_id": "1790006208",
+        "range_id": "",
+        "thumbnail": "https://xstreamcp-assets-msp.streamready.in/assets/SONYLIV_VOD/EPISODE/67bc77682dd7303099350c14/images/LANDSCAPE_169/celebrity_masterchef_s01_ep21_24022025_landscape.jpg",
+        "subtitles": [
+            {
+                "language": "English",
+                "url": "https://origin-staticv2.sonyliv.com/subtitles/1090469587/show_cmc_s01_ep21_india.vtt",
+                "format": "vtt",
+                "languageCode": "eng",
+                "subtype": "Normal"
+            }
+        ],
+        "streams": {
+            "dash": "https://sonynondrmvod.akamaized.net/DASH/8e624aebb9444c12bbf9050717acca84/1740398301/baseline-std-v4/show_cmc_s01_ep21_india_24022025_hin_std-800300010.mpd?hdnea=exp=1749189989~acl=/*~id=38b2b256aee94c82a903c1879fe95fd4-1679995936618-2102120412172702820~hmac=c4355116595ecb0c581f6b4f6ec771b39b373947223048080629863c4ca0c4b5",
+            "hls": ""
+        },
+        "drm": {
+            "needs_decryption": false,
+            "license_url": "",
+            "keys": ""
+        },
+        "format": {
+            "name": "NORMAL",
+            "codec": "H264"
+        },
+        "streams_info": {
+            "video": [
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 4359,
+                    "stream_id": "video/avc1/7-1080v2"
+                },
+                {
+                    "resolution": "1920x1080",
+                    "bitrate": 3448,
+                    "stream_id": "video/avc1/6-1080v1"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 2278,
+                    "stream_id": "video/avc1/5-720v2"
+                },
+                {
+                    "resolution": "1280x720",
+                    "bitrate": 1540,
+                    "stream_id": "video/avc1/4-720v1"
+                },
+                {
+                    "resolution": "960x540",
+                    "bitrate": 960,
+                    "stream_id": "video/avc1/3-540v1"
+                },
+                {
+                    "resolution": "640x360",
+                    "bitrate": 525,
+                    "stream_id": "video/avc1/2-360v1"
+                },
+                {
+                    "resolution": "426x240",
+                    "bitrate": 262,
+                    "stream_id": "video/avc1/1-240v1"
+                }
+            ],
+            "audio": [
+                {
+                    "language": "Hindi",
+                    "bitrate": 130,
+                    "stream_id": "audio/hin/mp4a",
+                    "codec": "|"
+                }
+            ],
+            "subtitle": []
+        },
+        "force_drive_upload": false,
+        "timestamp": 1749146796.8301802
+    }
+}

@@ -1,0 +1,1506 @@
+{
+  "TataPlay": {
+    "114": {
+      "download_complete": true,
+      "video=1297600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1297,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_eng=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Eng",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "362": {
+      "download_complete": true,
+      "video=3187600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3187,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_eng=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Eng",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "230": {
+      "download_complete": true,
+      "video=1297600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1297,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_eng=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Eng",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1363": {
+      "download_complete": true,
+      "video=1297600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1297,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_hin=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tam",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94483_tam=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tam",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94484_mal=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tam",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1182": {
+      "download_complete": true,
+      "video=229600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "320x180",
+        "bitrate": 229,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_108400_hin=106400": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hin",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "355": {
+      "download_complete": true,
+      "video=3187600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3187,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_und=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "2Ch",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "380": {
+      "download_complete": true,
+      "video=3187600": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3187,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_94482_eng=94000": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Eng",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "JioHotstar": {
+    "1540040862": {
+      "download_complete": false,
+      "3371": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3371,
+        "speed": "6973 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_0-Alternate_Audio": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hindi",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "13271": {
+        "percentage": 37.6,
+        "download_done": false,
+        "type": "video",
+        "resolution": "3840x2160",
+        "bitrate": 13271,
+        "speed": "10650 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971011464": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971238603": {
+      "download_complete": true,
+      "6": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "640x360",
+        "bitrate": 600,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1641004219": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749120285594/avc1/4_YlGttLD": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 516,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749120285594/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971012832": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1641004218": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749120239085/avc1/4_cThrsSH": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 557,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749120239085/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971011978": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "6": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1700071253": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749124273062/avc1/4_emUhTJB": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 583,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749124273062/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1700071252": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749123042742/avc1/4_eVavpcl": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 676,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749123042742/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1641004220": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749128187484/avc1/4_riAWDNu": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 429,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749128187484/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1700071261": {
+      "download_complete": true,
+      "video_fhd_h264_sdr_1749127504497/avc1/4_qpUneXR": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 700,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1749127504497/kn/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1271422487": {
+      "download_complete": true,
+      "video_h265_fhd_sdr_1748866915166/hvc1/4_hzeHMNh": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 530,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_aac_1748861849778/en/mp4a/3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "En",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971011739": {
+      "download_complete": true,
+      "11": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971014502": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1260049804": {
+      "download_complete": true,
+      "video_h264_fhd_sdr_1633441215060-avc1-8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3680,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_ec3_1633509669940-te-ec-3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Te",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971012381": {
+      "download_complete": true,
+      "10": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971013219": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971007799": {
+      "download_complete": true,
+      "8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 7472,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "14": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hin",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1280x720",
+        "bitrate": 1200,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "7": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3842,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971011736": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "7": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971012660": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971011929": {
+      "download_complete": true,
+      "11": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971015567": {
+      "download_complete": true,
+      "12": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971006915": {
+      "download_complete": true,
+      "10": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1280x720",
+        "bitrate": 1200,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1971013717": {
+      "download_complete": true,
+      "11": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 2300,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "7": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Unknown",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "ZEE5": {
+    "0-1-6z5762440": {
+      "download_complete": true,
+      "480p_8fab8678e20d356af7396e6bb3d1100f": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762512": {
+      "download_complete": true,
+      "480p_f724adc41fe8520001afe5a8c93a98f5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762468": {
+      "download_complete": true,
+      "480p_0e1545cb170412713e2e4d8be02e0088": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762239": {
+      "download_complete": true,
+      "480p_b7483713d42712d3b948cb79617c06c5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762774": {
+      "download_complete": true,
+      "480p_43f2c0c27d33062ac97a158a9b219b40": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762772": {
+      "download_complete": true,
+      "480p_7d55813d59e2f3d1f2083cdc1579e07c": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5765372": {
+      "download_complete": true,
+      "576p_4f53c4b3db9512853b91fee080fd01e4": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762555": {
+      "download_complete": true,
+      "480p_2ed5259cb66986eaa09dc805a08ce790": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5765477": {
+      "download_complete": true,
+      "576p_ee480f39a5327703dd793ddb07f0f6c5": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762414": {
+      "download_complete": true,
+      "480p_1ddbd0410ab9033d387d5d0e569fc6bb": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762721": {
+      "download_complete": true,
+      "480p_1b6bae07dbeee46096e1ee6072f77b3a": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762347": {
+      "download_complete": true,
+      "480p_08f953f6a74af6c35666d7702e8ef22d": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762350": {
+      "download_complete": true,
+      "480p_b9c1d699d10adcf981c18a5f9ce2137b": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762515": {
+      "download_complete": true,
+      "480p_de287c5be607a12b22395c50dc39f47f": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762390": {
+      "download_complete": true,
+      "480p_4bcb1793cbdbfee7519fca913f683774": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5765442": {
+      "download_complete": true,
+      "576p_841681326d053e724c8f3475a5ea380f": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5765408": {
+      "download_complete": true,
+      "576p_efddc6c550131098db7bbb436dad86e3": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5765340": {
+      "download_complete": true,
+      "576p_387f2daa659915b343bd772179a66089": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762698": {
+      "download_complete": true,
+      "480p_503bb8f1be54a6a6d48825e1f5f9baab": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5763107": {
+      "download_complete": true,
+      "576p_944579b7994c80fd6dec115d144aff7f": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "1080lowp_ff46ccd0b0ec3093d796967bca6f06ce": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3800,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5762602": {
+      "download_complete": true,
+      "480p_bcd36864a9915756e77d8dccda3f8f40": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "854x480",
+        "bitrate": 1100,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Kannada": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Kn",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "0-1-6z5763082": {
+      "download_complete": true,
+      "576p_5896e0b4734b21684507fdc23f8ee7a9": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1024x576",
+        "bitrate": 1350,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "Marathi": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Mr",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "ETV Win": {
+    "5fb7aaad20fbd71b6f005361": {
+      "download_complete": true,
+      "892": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "853x480",
+        "bitrate": 892,
+        "speed": "3041 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "1689": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1280x720",
+        "bitrate": 1689,
+        "speed": "5315 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "aac_2d0-stream_4": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "English",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "3222": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 3222,
+        "speed": "8315 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "Amazon Prime": {
+    "amzn1.dv.gti.32b43b39-9bd1-ac57-0533-2cbade6aabb2": {
+      "download_complete": true,
+      "video=9000000-1": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x872",
+        "bitrate": 9000,
+        "speed": "348.57 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_ta-IN_2=224000-0": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tamil",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_ta-IN_2=128000-0": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tamil",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_ta-IN_2=96000-0": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tamil",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "amzn1.dv.gti.af6b5662-1a04-4b88-a7e1-fc9b0a880a1d": {
+      "download_complete": true,
+      "video=9000000-1": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1040",
+        "bitrate": 9000,
+        "speed": "2324 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio_ta-IN_2=224000-0": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Tamil",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "video=15000000-1": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1040",
+        "bitrate": 15000,
+        "speed": "2089 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "video=4000000-1": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1040",
+        "bitrate": 4000,
+        "speed": "114483 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "SonyLIV": {
+    "1090482486": {
+      "download_complete": true,
+      "video/avc1/7-1080v2": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 4170,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio/hin/mp4a": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hin",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "1090469587": {
+      "download_complete": true,
+      "video/avc1/7-1080v2": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 4359,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "audio/hin/mp4a": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hin",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "Airtel Xstream": {
+    "MANORAMAMAX_EPISODE_175211": {
+      "download_complete": true,
+      "4098": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 4098,
+        "speed": "16558 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "Ullu": {
+    "683d876f1b69e40ca857b23f": {
+      "download_complete": true,
+      "4650": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 4650,
+        "speed": "38420 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "SunNXT": {
+    "8455": {
+      "download_complete": true,
+      "1": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "640x480",
+        "bitrate": 2132,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "10": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Ta",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  },
+  "ChaupalTV": {
+    "d5f18367-0533-48ef-a5be-93edfb3be2f2": {
+      "download_complete": true,
+      "2": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 5000,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Hin",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    },
+    "e2b6bd21-e230-4fdd-941c-8c9a790d0e4c": {
+      "download_complete": true,
+      "2": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "video",
+        "resolution": "1920x1080",
+        "bitrate": 5000,
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      },
+      "8": {
+        "percentage": 100,
+        "download_done": true,
+        "type": "audio",
+        "language": "Pan",
+        "speed": "0 KBps",
+        "downloaded_size": "0MB",
+        "total_size": "0MB"
+      }
+    }
+  }
+}
