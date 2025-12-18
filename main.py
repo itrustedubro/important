@@ -42,7 +42,7 @@ from helpers.config import (
 from helpers.formats import get_formats
 
 from helpers.handlers import (
-    handle_zee, handle_mxplayer, handle_aha, handle_sunnxt,
+    handle_zee, handle_mxplayer, handle_sunnxt,
     handle_dplus, handle_sonyliv
 )
 
