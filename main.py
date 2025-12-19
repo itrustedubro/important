@@ -6,6 +6,8 @@ from datetime import datetime, timedelta
 # Third party imports
 import uvloop  # type: ignore
 import aiohttp, aiofiles
+from aiohttp import web
+import logging
 import motor.motor_asyncio  # For MongoDB support
 from pyrogram import Client, filters, idle
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -18,6 +20,8 @@ import base64 as sync_base64
 from pywidevine.cdm import Cdm
 from pywidevine.device import Device
 from pywidevine.pssh import PSSH
+
+_health_runner = None
 
 # Local imports
 #import mediainfo
@@ -2705,6 +2709,28 @@ def signal_handler(signum, frame):
 
 premium_session_pool = PremiumSessionPool(PREMIUM_STRING)
 
+async def health(request):
+    return web.Response(text="OK")
+
+async def start_health_server():
+    global _health_runner
+
+    app = web.Application()
+    app.router.add_get("/", health)
+
+    _health_runner = web.AppRunner(app)
+    await _health_runner.setup()
+
+    site = web.TCPSite(_health_runner, "0.0.0.0", 8080)
+    await site.start()
+
+    logging.info("TCP health check server running on port 8080")
+
+async def stop_health_server():
+    global _health_runner
+    if _health_runner:
+        await _health_runner.cleanup()
+
 async def check_download_limits(user_id, platform_name=None, chat_id=None):
     # Check for global lock
     if is_bot_locked():
@@ -2787,23 +2813,38 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     try:
         loop.run_until_complete(main())
+
     except KeyboardInterrupt:
         pass
+
     except Exception as e:
         logger.error(f"Fatal error: {str(e)}")
+
     finally:
         try:
-            # Get all pending tasks
-            pending = [t for t in asyncio.all_tasks(loop) if t is not asyncio.current_task()]
-            # Wait with a timeout
-            loop.run_until_complete(asyncio.wait_for(
-                asyncio.gather(*pending, return_exceptions=True),
-                timeout=5.0
-            ))
+            # 🔹 STOP HEALTH SERVER FIRST (TCP health check cleanup)
+            loop.run_until_complete(stop_health_server())
+
+            # 🔹 Get all pending tasks
+            pending = [
+                t for t in asyncio.all_tasks(loop)
+                if t is not asyncio.current_task()
+            ]
+
+            # 🔹 Wait for pending tasks (with timeout)
+            loop.run_until_complete(
+                asyncio.wait_for(
+                    asyncio.gather(*pending, return_exceptions=True),
+                    timeout=5.0
+                )
+            )
+
         except asyncio.TimeoutError:
             logger.warning("Some tasks did not complete in time during shutdown")
+
         except Exception as e:
             logger.error(f"Error during cleanup: {str(e)}")
+
         finally:
             try:
                 loop.run_until_complete(loop.shutdown_asyncgens())
