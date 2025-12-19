@@ -78,14 +78,14 @@ logging.getLogger("requests").setLevel(logging.WARNING)
 logging.getLogger("http.client").setLevel(logging.WARNING)
 
 # Bot configuration
-API_ID = 22250562
-API_HASH = "07754d3bdc27193318ae5f6e6c8016af"
-BOT_TOKEN = "7939026402:AAFdwic5aj1Hgn3FrGeR3vnyGs4Y2H09ai4"
+API_ID = 7041911
+API_HASH = "abab2561c71e3004a55d4ff9763d5383"
+BOT_TOKEN = "7948031954:AAG1Mqvbsd3dkJ5vt0hLowm1uU9KSXCEmWA"
 PREMIUM_STRING = ""
-ASSISTANT_BOT = "MrAnonymous_69"
+ASSISTANT_BOT = "payer_17"
 ALLOWED_ID = [-1002796491419, -1003031974467, 1894915577]
 # MongoDB Configuration
-MONGO_DB_URI = "mongodb+srv://aman:hdhub4net@cluster0.f6fbxm4.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://auto2:auto2@cluster0.fconnog.mongodb.net/?appName=Cluster0"
 DB_NAME = "OTT_BOT"
 
 # Initialize MongoDB client
